@@ -1,0 +1,5084 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "42.20.0-catalog.3",
+  "gameBuild": "42.20.0",
+  "generatedAt": "2026-07-30T04:42:09.884Z",
+  "source": "Project Zomboid Build 42.20.0 installed media files",
+  "items": [
+    {
+      "id": "Base.BookFarming1",
+      "name": "Agriculture I: \"Better Gardening\"",
+      "kind": "skill-book",
+      "category": "Agriculture",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Agriculture%20I%3A%20%22Better%20Gardening%22",
+      "skill": "Agriculture",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookFarming2",
+      "name": "Agriculture II: \"Growing Food at Home\"",
+      "kind": "skill-book",
+      "category": "Agriculture",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Agriculture%20II%3A%20%22Growing%20Food%20at%20Home%22",
+      "skill": "Agriculture",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookFarming3",
+      "name": "Agriculture III: \"Liam Keating's Subsistence Farming\"",
+      "kind": "skill-book",
+      "category": "Agriculture",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Agriculture%20III%3A%20%22Liam%20Keating's%20Subsistence%20Farming%22",
+      "skill": "Agriculture",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookFarming4",
+      "name": "Agriculture IV: \"The Science of Crop Genetics and Yields\"",
+      "kind": "skill-book",
+      "category": "Agriculture",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Agriculture%20IV%3A%20%22The%20Science%20of%20Crop%20Genetics%20and%20Yields%22",
+      "skill": "Agriculture",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookFarming5",
+      "name": "Agriculture V: \"USDA Guide to Agricultural Output Maximization\"",
+      "kind": "skill-book",
+      "category": "Agriculture",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Agriculture%20V%3A%20%22USDA%20Guide%20to%20Agricultural%20Output%20Maximization%22",
+      "skill": "Agriculture",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookAiming1",
+      "name": "Aiming I: \"Better Aiming\"",
+      "kind": "skill-book",
+      "category": "Aiming",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Aiming%20I%3A%20%22Better%20Aiming%22",
+      "skill": "Aiming",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookAiming2",
+      "name": "Aiming II: \"Drawing and Shooting\"",
+      "kind": "skill-book",
+      "category": "Aiming",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Aiming%20II%3A%20%22Drawing%20and%20Shooting%22",
+      "skill": "Aiming",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookAiming3",
+      "name": "Aiming III: \"Leading Moving Targets\"",
+      "kind": "skill-book",
+      "category": "Aiming",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Aiming%20III%3A%20%22Leading%20Moving%20Targets%22",
+      "skill": "Aiming",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookAiming4",
+      "name": "Aiming IV: \"Long Range Sniping Tactics\"",
+      "kind": "skill-book",
+      "category": "Aiming",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Aiming%20IV%3A%20%22Long%20Range%20Sniping%20Tactics%22",
+      "skill": "Aiming",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookAiming5",
+      "name": "Aiming V: \"Secrets From the World's Best Snipers\"",
+      "kind": "skill-book",
+      "category": "Aiming",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Aiming%20V%3A%20%22Secrets%20From%20the%20World's%20Best%20Snipers%22",
+      "skill": "Aiming",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookHusbandry1",
+      "name": "Animal Care I: \"A Tale of St. Francis\"",
+      "kind": "skill-book",
+      "category": "Animal Care",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Animal%20Care%20I%3A%20%22A%20Tale%20of%20St.%20Francis%22",
+      "skill": "Animal Care",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookHusbandry2",
+      "name": "Animal Care II: \"Animal Welfare Basics\"",
+      "kind": "skill-book",
+      "category": "Animal Care",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Animal%20Care%20II%3A%20%22Animal%20Welfare%20Basics%22",
+      "skill": "Animal Care",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookHusbandry3",
+      "name": "Animal Care III: \"How Animals Think: A Helpful Guide\"",
+      "kind": "skill-book",
+      "category": "Animal Care",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Animal%20Care%20III%3A%20%22How%20Animals%20Think%3A%20A%20Helpful%20Guide%22",
+      "skill": "Animal Care",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookHusbandry4",
+      "name": "Animal Care IV: \"The Wants and Needs of Diverse Fauna\"",
+      "kind": "skill-book",
+      "category": "Animal Care",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Animal%20Care%20IV%3A%20%22The%20Wants%20and%20Needs%20of%20Diverse%20Fauna%22",
+      "skill": "Animal Care",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookHusbandry5",
+      "name": "Animal Care V: \"Wilds Tamed: An In-Depth Comparative\"",
+      "kind": "skill-book",
+      "category": "Animal Care",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Animal%20Care%20V%3A%20%22Wilds%20Tamed%3A%20An%20In-Depth%20Comparative%22",
+      "skill": "Animal Care",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookBlacksmith1",
+      "name": "Blacksmithing I: \"Elementary Forge Practice\"",
+      "kind": "skill-book",
+      "category": "Blacksmithing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Blacksmithing%20I%3A%20%22Elementary%20Forge%20Practice%22",
+      "skill": "Blacksmithing",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookBlacksmith2",
+      "name": "Blacksmithing II: \"General Purpose Blacksmithing\"",
+      "kind": "skill-book",
+      "category": "Blacksmithing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Blacksmithing%20II%3A%20%22General%20Purpose%20Blacksmithing%22",
+      "skill": "Blacksmithing",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookBlacksmith3",
+      "name": "Blacksmithing III: \"Old West Smiths and Their Secrets\"",
+      "kind": "skill-book",
+      "category": "Blacksmithing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Blacksmithing%20III%3A%20%22Old%20West%20Smiths%20and%20Their%20Secrets%22",
+      "skill": "Blacksmithing",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookBlacksmith4",
+      "name": "Blacksmithing IV: \"Really Hard Steel Co. Workers Handbook\"",
+      "kind": "skill-book",
+      "category": "Blacksmithing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Blacksmithing%20IV%3A%20%22Really%20Hard%20Steel%20Co.%20Workers%20Handbook%22",
+      "skill": "Blacksmithing",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookBlacksmith5",
+      "name": "Blacksmithing V: \"The Complete Encyclopedia of Metallurgy\"",
+      "kind": "skill-book",
+      "category": "Blacksmithing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Blacksmithing%20V%3A%20%22The%20Complete%20Encyclopedia%20of%20Metallurgy%22",
+      "skill": "Blacksmithing",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookButchering1",
+      "name": "Butchering I: \"Butchering Basics\"",
+      "kind": "skill-book",
+      "category": "Butchering",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Butchering%20I%3A%20%22Butchering%20Basics%22",
+      "skill": "Butchering",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookButchering2",
+      "name": "Butchering II: \"From Chuck to Shank\"",
+      "kind": "skill-book",
+      "category": "Butchering",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Butchering%20II%3A%20%22From%20Chuck%20to%20Shank%22",
+      "skill": "Butchering",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookButchering3",
+      "name": "Butchering III: \"Hunter's Guide to Butchering\"",
+      "kind": "skill-book",
+      "category": "Butchering",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Butchering%20III%3A%20%22Hunter's%20Guide%20to%20Butchering%22",
+      "skill": "Butchering",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookButchering4",
+      "name": "Butchering IV: \"Master Butcher's Complete Guide\"",
+      "kind": "skill-book",
+      "category": "Butchering",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Butchering%20IV%3A%20%22Master%20Butcher's%20Complete%20Guide%22",
+      "skill": "Butchering",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookButchering5",
+      "name": "Butchering V: \"The Ergonomics of Tools in Meat Cutting Operations\"",
+      "kind": "skill-book",
+      "category": "Butchering",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Butchering%20V%3A%20%22The%20Ergonomics%20of%20Tools%20in%20Meat%20Cutting%20Operations%22",
+      "skill": "Butchering",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookCarpentry1",
+      "name": "Carpentry I: \"A Guide to Nailing\"",
+      "kind": "skill-book",
+      "category": "Carpentry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carpentry%20I%3A%20%22A%20Guide%20to%20Nailing%22",
+      "skill": "Carpentry",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookCarpentry2",
+      "name": "Carpentry II: \"Carpentry, Woodcraft Style\"",
+      "kind": "skill-book",
+      "category": "Carpentry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carpentry%20II%3A%20%22Carpentry%2C%20Woodcraft%20Style%22",
+      "skill": "Carpentry",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookCarpentry3",
+      "name": "Carpentry III: \"Hand Crafted Shelving and Storage\"",
+      "kind": "skill-book",
+      "category": "Carpentry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carpentry%20III%3A%20%22Hand%20Crafted%20Shelving%20and%20Storage%22",
+      "skill": "Carpentry",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookCarpentry4",
+      "name": "Carpentry IV: \"Making Your Own Cabin From Scratch\"",
+      "kind": "skill-book",
+      "category": "Carpentry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carpentry%20IV%3A%20%22Making%20Your%20Own%20Cabin%20From%20Scratch%22",
+      "skill": "Carpentry",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookCarpentry5",
+      "name": "Carpentry V: \"Site Joinery and Architectural Carpentry\"",
+      "kind": "skill-book",
+      "category": "Carpentry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carpentry%20V%3A%20%22Site%20Joinery%20and%20Architectural%20Carpentry%22",
+      "skill": "Carpentry",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookCarving1",
+      "name": "Carving I: \"Beginners Carving\"",
+      "kind": "skill-book",
+      "category": "Carving",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carving%20I%3A%20%22Beginners%20Carving%22",
+      "skill": "Carving",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookCarving2",
+      "name": "Carving II: \"Cool Woodshaping Projects!\"",
+      "kind": "skill-book",
+      "category": "Carving",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carving%20II%3A%20%22Cool%20Woodshaping%20Projects!%22",
+      "skill": "Carving",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookCarving3",
+      "name": "Carving III: \"Grinling Gibbons: His Life and Works\"",
+      "kind": "skill-book",
+      "category": "Carving",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carving%20III%3A%20%22Grinling%20Gibbons%3A%20His%20Life%20and%20Works%22",
+      "skill": "Carving",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookCarving4",
+      "name": "Carving IV: \"Medieval Wood and Bone Carving Techniques\"",
+      "kind": "skill-book",
+      "category": "Carving",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carving%20IV%3A%20%22Medieval%20Wood%20and%20Bone%20Carving%20Techniques%22",
+      "skill": "Carving",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookCarving5",
+      "name": "Carving V: \"The Art and Process of Natural Material Carving\"",
+      "kind": "skill-book",
+      "category": "Carving",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Carving%20V%3A%20%22The%20Art%20and%20Process%20of%20Natural%20Material%20Carving%22",
+      "skill": "Carving",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookCooking1",
+      "name": "Cooking I: \"Better Burger Flipping\"",
+      "kind": "skill-book",
+      "category": "Cooking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Cooking%20I%3A%20%22Better%20Burger%20Flipping%22",
+      "skill": "Cooking",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookCooking2",
+      "name": "Cooking II: \"Essential Home Cooking Guide\"",
+      "kind": "skill-book",
+      "category": "Cooking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Cooking%20II%3A%20%22Essential%20Home%20Cooking%20Guide%22",
+      "skill": "Cooking",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookCooking3",
+      "name": "Cooking III: \"Flavorful Cuisine - 1993 Edition\"",
+      "kind": "skill-book",
+      "category": "Cooking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Cooking%20III%3A%20%22Flavorful%20Cuisine%20-%201993%20Edition%22",
+      "skill": "Cooking",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookCooking4",
+      "name": "Cooking IV: \"Professional Tips from a Master Chef\"",
+      "kind": "skill-book",
+      "category": "Cooking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Cooking%20IV%3A%20%22Professional%20Tips%20from%20a%20Master%20Chef%22",
+      "skill": "Cooking",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookCooking5",
+      "name": "Cooking V: \"Ruban Vert Gourmet - Complete Cooking Techniques\"",
+      "kind": "skill-book",
+      "category": "Cooking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Cooking%20V%3A%20%22Ruban%20Vert%20Gourmet%20-%20Complete%20Cooking%20Techniques%22",
+      "skill": "Cooking",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookElectrician1",
+      "name": "Electrical I: \"Basic Electronics\"",
+      "kind": "skill-book",
+      "category": "Electrical",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Electrical%20I%3A%20%22Basic%20Electronics%22",
+      "skill": "Electrical",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookElectrician2",
+      "name": "Electrical II: \"Kentucky AV Guide '93\"",
+      "kind": "skill-book",
+      "category": "Electrical",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Electrical%20II%3A%20%22Kentucky%20AV%20Guide%20'93%22",
+      "skill": "Electrical",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookElectrician3",
+      "name": "Electrical III: \"Practical Wiring Guide\"",
+      "kind": "skill-book",
+      "category": "Electrical",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Electrical%20III%3A%20%22Practical%20Wiring%20Guide%22",
+      "skill": "Electrical",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookElectrician4",
+      "name": "Electrical IV: \"Telecommunications in the 20th Century\"",
+      "kind": "skill-book",
+      "category": "Electrical",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Electrical%20IV%3A%20%22Telecommunications%20in%20the%2020th%20Century%22",
+      "skill": "Electrical",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookElectrician5",
+      "name": "Electrical V: \"Understanding Integrated Controls for Electronic Systems\"",
+      "kind": "skill-book",
+      "category": "Electrical",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Electrical%20V%3A%20%22Understanding%20Integrated%20Controls%20for%20Electronic%20Systems%22",
+      "skill": "Electrical",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookFirstAid1",
+      "name": "First Aid I: \"A Scouts Injury Guide\"",
+      "kind": "skill-book",
+      "category": "First Aid",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=First%20Aid%20I%3A%20%22A%20Scouts%20Injury%20Guide%22",
+      "skill": "First Aid",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookFirstAid2",
+      "name": "First Aid II: \"Bandaging and Suturing\"",
+      "kind": "skill-book",
+      "category": "First Aid",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=First%20Aid%20II%3A%20%22Bandaging%20and%20Suturing%22",
+      "skill": "First Aid",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookFirstAid3",
+      "name": "First Aid III: \"Emergency Paramedics Manual\"",
+      "kind": "skill-book",
+      "category": "First Aid",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=First%20Aid%20III%3A%20%22Emergency%20Paramedics%20Manual%22",
+      "skill": "First Aid",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookFirstAid4",
+      "name": "First Aid IV: \"Gray's Anatomy of the Human Body\"",
+      "kind": "skill-book",
+      "category": "First Aid",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=First%20Aid%20IV%3A%20%22Gray's%20Anatomy%20of%20the%20Human%20Body%22",
+      "skill": "First Aid",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookFirstAid5",
+      "name": "First Aid V: \"Surgical Techniques of the Operating Room\"",
+      "kind": "skill-book",
+      "category": "First Aid",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=First%20Aid%20V%3A%20%22Surgical%20Techniques%20of%20the%20Operating%20Room%22",
+      "skill": "First Aid",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookFishing1",
+      "name": "Fishing I: \"Dean's Good Fishing Guide\"",
+      "kind": "skill-book",
+      "category": "Fishing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Fishing%20I%3A%20%22Dean's%20Good%20Fishing%20Guide%22",
+      "skill": "Fishing",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookFishing2",
+      "name": "Fishing II: \"Fly Fishing, with JR Hartley\"",
+      "kind": "skill-book",
+      "category": "Fishing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Fishing%20II%3A%20%22Fly%20Fishing%2C%20with%20JR%20Hartley%22",
+      "skill": "Fishing",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookFishing3",
+      "name": "Fishing III: \"Fresh and Saltwater Fishing\"",
+      "kind": "skill-book",
+      "category": "Fishing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Fishing%20III%3A%20%22Fresh%20and%20Saltwater%20Fishing%22",
+      "skill": "Fishing",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookFishing4",
+      "name": "Fishing IV: \"Latest Rod and Net Techniques\"",
+      "kind": "skill-book",
+      "category": "Fishing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Fishing%20IV%3A%20%22Latest%20Rod%20and%20Net%20Techniques%22",
+      "skill": "Fishing",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookFishing5",
+      "name": "Fishing V: \"The Authoritative Kentucky Fishing Guide\"",
+      "kind": "skill-book",
+      "category": "Fishing",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Fishing%20V%3A%20%22The%20Authoritative%20Kentucky%20Fishing%20Guide%22",
+      "skill": "Fishing",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookForaging1",
+      "name": "Foraging I: \"A Feast in the Forest\"",
+      "kind": "skill-book",
+      "category": "Foraging",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Foraging%20I%3A%20%22A%20Feast%20in%20the%20Forest%22",
+      "skill": "Foraging",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookForaging2",
+      "name": "Foraging II: \"Dean's Guide to Sticks & Stones\"",
+      "kind": "skill-book",
+      "category": "Foraging",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Foraging%20II%3A%20%22Dean's%20Guide%20to%20Sticks%20%26%20Stones%22",
+      "skill": "Foraging",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookForaging3",
+      "name": "Foraging III: \"Finding The Treasure in the Trash\"",
+      "kind": "skill-book",
+      "category": "Foraging",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Foraging%20III%3A%20%22Finding%20The%20Treasure%20in%20the%20Trash%22",
+      "skill": "Foraging",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookForaging4",
+      "name": "Foraging IV: \"Survival Foraging: How Nature Can Save Your Life\"",
+      "kind": "skill-book",
+      "category": "Foraging",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Foraging%20IV%3A%20%22Survival%20Foraging%3A%20How%20Nature%20Can%20Save%20Your%20Life%22",
+      "skill": "Foraging",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookForaging5",
+      "name": "Foraging V: \"US Park Service Complete Nature Census - Kentucky\"",
+      "kind": "skill-book",
+      "category": "Foraging",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Foraging%20V%3A%20%22US%20Park%20Service%20Complete%20Nature%20Census%20-%20Kentucky%22",
+      "skill": "Foraging",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookGlassmaking1",
+      "name": "Glassmaking I: \"Glass: A History\"",
+      "kind": "skill-book",
+      "category": "Glassmaking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Glassmaking%20I%3A%20%22Glass%3A%20A%20History%22",
+      "skill": "Glassmaking",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookGlassmaking2",
+      "name": "Glassmaking II: \"From Sand to Glass: A Journey\"",
+      "kind": "skill-book",
+      "category": "Glassmaking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Glassmaking%20II%3A%20%22From%20Sand%20to%20Glass%3A%20A%20Journey%22",
+      "skill": "Glassmaking",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookGlassmaking3",
+      "name": "Glassmaking III: \"Laboratory Manual of Glassblowing\"",
+      "kind": "skill-book",
+      "category": "Glassmaking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Glassmaking%20III%3A%20%22Laboratory%20Manual%20of%20Glassblowing%22",
+      "skill": "Glassmaking",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookGlassmaking4",
+      "name": "Glassmaking IV: \"Secrets of the Carlow Crystal Makers\"",
+      "kind": "skill-book",
+      "category": "Glassmaking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Glassmaking%20IV%3A%20%22Secrets%20of%20the%20Carlow%20Crystal%20Makers%22",
+      "skill": "Glassmaking",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookGlassmaking5",
+      "name": "Glassmaking V: \"Venetian Glass: An Electron Microprobe Analysis\"",
+      "kind": "skill-book",
+      "category": "Glassmaking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Glassmaking%20V%3A%20%22Venetian%20Glass%3A%20An%20Electron%20Microprobe%20Analysis%22",
+      "skill": "Glassmaking",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookFlintKnapping1",
+      "name": "Knapping I: \"Flint Knapping 101\"",
+      "kind": "skill-book",
+      "category": "Knapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Knapping%20I%3A%20%22Flint%20Knapping%20101%22",
+      "skill": "Knapping",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookFlintKnapping2",
+      "name": "Knapping II: \"Guide to Kentucky Geology\"",
+      "kind": "skill-book",
+      "category": "Knapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Knapping%20II%3A%20%22Guide%20to%20Kentucky%20Geology%22",
+      "skill": "Knapping",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookFlintKnapping3",
+      "name": "Knapping III: \"Lithic Technology Manual 1993\"",
+      "kind": "skill-book",
+      "category": "Knapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Knapping%20III%3A%20%22Lithic%20Technology%20Manual%201993%22",
+      "skill": "Knapping",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookFlintKnapping4",
+      "name": "Knapping IV: \"Schmidt Rock Hardness Testing Techniques\"",
+      "kind": "skill-book",
+      "category": "Knapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Knapping%20IV%3A%20%22Schmidt%20Rock%20Hardness%20Testing%20Techniques%22",
+      "skill": "Knapping",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookFlintKnapping5",
+      "name": "Knapping V: \"Technological Morphometrics of Clovis Artifacts\"",
+      "kind": "skill-book",
+      "category": "Knapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Knapping%20V%3A%20%22Technological%20Morphometrics%20of%20Clovis%20Artifacts%22",
+      "skill": "Knapping",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookLongBlade1",
+      "name": "Long Blade I: \"Cool Swords!\"",
+      "kind": "skill-book",
+      "category": "Long Blade",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Long%20Blade%20I%3A%20%22Cool%20Swords!%22",
+      "skill": "Long Blade",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookLongBlade2",
+      "name": "Long Blade II: \"Fencing: A History\"",
+      "kind": "skill-book",
+      "category": "Long Blade",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Long%20Blade%20II%3A%20%22Fencing%3A%20A%20History%22",
+      "skill": "Long Blade",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookLongBlade3",
+      "name": "Long Blade III: \"Old Sword-Play\" by Alfred Hutton",
+      "kind": "skill-book",
+      "category": "Long Blade",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Long%20Blade%20III%3A%20%22Old%20Sword-Play%22%20by%20Alfred%20Hutton",
+      "skill": "Long Blade",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookLongBlade4",
+      "name": "Long Blade IV: \"The Zettels of Johannes Liechtenauer\"",
+      "kind": "skill-book",
+      "category": "Long Blade",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Long%20Blade%20IV%3A%20%22The%20Zettels%20of%20Johannes%20Liechtenauer%22",
+      "skill": "Long Blade",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookLongBlade5",
+      "name": "Long Blade V: \"Wear Analysis of Selected Medieval Swords\"",
+      "kind": "skill-book",
+      "category": "Long Blade",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Long%20Blade%20V%3A%20%22Wear%20Analysis%20of%20Selected%20Medieval%20Swords%22",
+      "skill": "Long Blade",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookMaintenance1",
+      "name": "Maintenance I: \"Basic Repairs\"",
+      "kind": "skill-book",
+      "category": "Maintenance",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Maintenance%20I%3A%20%22Basic%20Repairs%22",
+      "skill": "Maintenance",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookMaintenance2",
+      "name": "Maintenance II: \"Better Tools, Made Easy\"",
+      "kind": "skill-book",
+      "category": "Maintenance",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Maintenance%20II%3A%20%22Better%20Tools%2C%20Made%20Easy%22",
+      "skill": "Maintenance",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookMaintenance3",
+      "name": "Maintenance III: \"Home Guide to Tool Repairs\"",
+      "kind": "skill-book",
+      "category": "Maintenance",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Maintenance%20III%3A%20%22Home%20Guide%20to%20Tool%20Repairs%22",
+      "skill": "Maintenance",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookMaintenance4",
+      "name": "Maintenance IV: \"Maintaining High Grade Tools\"",
+      "kind": "skill-book",
+      "category": "Maintenance",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Maintenance%20IV%3A%20%22Maintaining%20High%20Grade%20Tools%22",
+      "skill": "Maintenance",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookMaintenance5",
+      "name": "Maintenance V: \"Understanding Biomechanics of Tool Use\"",
+      "kind": "skill-book",
+      "category": "Maintenance",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Maintenance%20V%3A%20%22Understanding%20Biomechanics%20of%20Tool%20Use%22",
+      "skill": "Maintenance",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookMasonry1",
+      "name": "Masonry I: \"A Bricklayer's Life\"",
+      "kind": "skill-book",
+      "category": "Masonry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Masonry%20I%3A%20%22A%20Bricklayer's%20Life%22",
+      "skill": "Masonry",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookMasonry2",
+      "name": "Masonry II: \"Flooring: Do It Yourself\"",
+      "kind": "skill-book",
+      "category": "Masonry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Masonry%20II%3A%20%22Flooring%3A%20Do%20It%20Yourself%22",
+      "skill": "Masonry",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookMasonry3",
+      "name": "Masonry III: \"Dibnah's Guide to Bricks\"",
+      "kind": "skill-book",
+      "category": "Masonry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Masonry%20III%3A%20%22Dibnah's%20Guide%20to%20Bricks%22",
+      "skill": "Masonry",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookMasonry4",
+      "name": "Masonry IV: \"Secrets of a Professional Mason\"",
+      "kind": "skill-book",
+      "category": "Masonry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Masonry%20IV%3A%20%22Secrets%20of%20a%20Professional%20Mason%22",
+      "skill": "Masonry",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookMasonry5",
+      "name": "Masonry V: \"Statistical Analysis of Historic Masonry Constructions\"",
+      "kind": "skill-book",
+      "category": "Masonry",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Masonry%20V%3A%20%22Statistical%20Analysis%20of%20Historic%20Masonry%20Constructions%22",
+      "skill": "Masonry",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookMechanic1",
+      "name": "Mechanics I: \"Carzone's Repair Guide\"",
+      "kind": "skill-book",
+      "category": "Mechanics",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Mechanics%20I%3A%20%22Carzone's%20Repair%20Guide%22",
+      "skill": "Mechanics",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookMechanic2",
+      "name": "Mechanics II: \"How Vehicle Engines Work\"",
+      "kind": "skill-book",
+      "category": "Mechanics",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Mechanics%20II%3A%20%22How%20Vehicle%20Engines%20Work%22",
+      "skill": "Mechanics",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookMechanic3",
+      "name": "Mechanics III: \"Laine's Repair Manual '93\"",
+      "kind": "skill-book",
+      "category": "Mechanics",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Mechanics%20III%3A%20%22Laine's%20Repair%20Manual%20'93%22",
+      "skill": "Mechanics",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookMechanic4",
+      "name": "Mechanics IV: \"Long Term Vehicle Maintenance\"",
+      "kind": "skill-book",
+      "category": "Mechanics",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Mechanics%20IV%3A%20%22Long%20Term%20Vehicle%20Maintenance%22",
+      "skill": "Mechanics",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookMechanic5",
+      "name": "Mechanics V: \"Mastering Automotive Fault Diagnosis Techniques\"",
+      "kind": "skill-book",
+      "category": "Mechanics",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Mechanics%20V%3A%20%22Mastering%20Automotive%20Fault%20Diagnosis%20Techniques%22",
+      "skill": "Mechanics",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookPottery1",
+      "name": "Pottery I: \"Ancient Pottery\"",
+      "kind": "skill-book",
+      "category": "Pottery",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Pottery%20I%3A%20%22Ancient%20Pottery%22",
+      "skill": "Pottery",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookPottery2",
+      "name": "Pottery II: \"Build Your Own Kiln\"",
+      "kind": "skill-book",
+      "category": "Pottery",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Pottery%20II%3A%20%22Build%20Your%20Own%20Kiln%22",
+      "skill": "Pottery",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookPottery3",
+      "name": "Pottery III: \"Glazing Ceramics at Home\"",
+      "kind": "skill-book",
+      "category": "Pottery",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Pottery%20III%3A%20%22Glazing%20Ceramics%20at%20Home%22",
+      "skill": "Pottery",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookPottery4",
+      "name": "Pottery IV: \"Ming Chinese Masterworks: A Guide\"",
+      "kind": "skill-book",
+      "category": "Pottery",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Pottery%20IV%3A%20%22Ming%20Chinese%20Masterworks%3A%20A%20Guide%22",
+      "skill": "Pottery",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookPottery5",
+      "name": "Pottery V: \"Pyrometamorphic Process of Ceramic Materials\"",
+      "kind": "skill-book",
+      "category": "Pottery",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Pottery%20V%3A%20%22Pyrometamorphic%20Process%20of%20Ceramic%20Materials%22",
+      "skill": "Pottery",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookReloading1",
+      "name": "Reloading I: \"Basic Reloading\"",
+      "kind": "skill-book",
+      "category": "Reloading",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Reloading%20I%3A%20%22Basic%20Reloading%22",
+      "skill": "Reloading",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookReloading2",
+      "name": "Reloading II: \"Dead Man's Click\"",
+      "kind": "skill-book",
+      "category": "Reloading",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Reloading%20II%3A%20%22Dead%20Man's%20Click%22",
+      "skill": "Reloading",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookReloading3",
+      "name": "Reloading III: \"Jungle Style Reloading\"",
+      "kind": "skill-book",
+      "category": "Reloading",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Reloading%20III%3A%20%22Jungle%20Style%20Reloading%22",
+      "skill": "Reloading",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookReloading4",
+      "name": "Reloading IV: \"Strippers, Speedloaders, and Bolt Action\"",
+      "kind": "skill-book",
+      "category": "Reloading",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Reloading%20IV%3A%20%22Strippers%2C%20Speedloaders%2C%20and%20Bolt%20Action%22",
+      "skill": "Reloading",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookReloading5",
+      "name": "Reloading V: \"The Ultimate Encyclopedia of Reloading Techniques\"",
+      "kind": "skill-book",
+      "category": "Reloading",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Reloading%20V%3A%20%22The%20Ultimate%20Encyclopedia%20of%20Reloading%20Techniques%22",
+      "skill": "Reloading",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookTailoring1",
+      "name": "Tailoring I: \"Basic Clothing Repair\"",
+      "kind": "skill-book",
+      "category": "Tailoring",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tailoring%20I%3A%20%22Basic%20Clothing%20Repair%22",
+      "skill": "Tailoring",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookTailoring2",
+      "name": "Tailoring II: \"From Rags to Royalty: A Sewing Guide\"",
+      "kind": "skill-book",
+      "category": "Tailoring",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tailoring%20II%3A%20%22From%20Rags%20to%20Royalty%3A%20A%20Sewing%20Guide%22",
+      "skill": "Tailoring",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookTailoring3",
+      "name": "Tailoring III: \"Haute Couture Tailoring Methods\"",
+      "kind": "skill-book",
+      "category": "Tailoring",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tailoring%20III%3A%20%22Haute%20Couture%20Tailoring%20Methods%22",
+      "skill": "Tailoring",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookTailoring4",
+      "name": "Tailoring IV: \"Modern Patterns from the Catwalks of Paris\"",
+      "kind": "skill-book",
+      "category": "Tailoring",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tailoring%20IV%3A%20%22Modern%20Patterns%20from%20the%20Catwalks%20of%20Paris%22",
+      "skill": "Tailoring",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookTailoring5",
+      "name": "Tailoring V: \"Textile Production and Manufacturing Techniques\"",
+      "kind": "skill-book",
+      "category": "Tailoring",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tailoring%20V%3A%20%22Textile%20Production%20and%20Manufacturing%20Techniques%22",
+      "skill": "Tailoring",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookTracking1",
+      "name": "Tracking I: \"Animal Pawprints\"",
+      "kind": "skill-book",
+      "category": "Tracking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tracking%20I%3A%20%22Animal%20Pawprints%22",
+      "skill": "Tracking",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookTracking2",
+      "name": "Tracking II: \"Hunting with Hemingway\"",
+      "kind": "skill-book",
+      "category": "Tracking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tracking%20II%3A%20%22Hunting%20with%20Hemingway%22",
+      "skill": "Tracking",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookTracking3",
+      "name": "Tracking III: \"Long Range Animal Tracking\"",
+      "kind": "skill-book",
+      "category": "Tracking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tracking%20III%3A%20%22Long%20Range%20Animal%20Tracking%22",
+      "skill": "Tracking",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookTracking4",
+      "name": "Tracking IV: \"The Smell of Ivory: An African Adventure\"",
+      "kind": "skill-book",
+      "category": "Tracking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tracking%20IV%3A%20%22The%20Smell%20of%20Ivory%3A%20An%20African%20Adventure%22",
+      "skill": "Tracking",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookTracking5",
+      "name": "Tracking V: \"Understanding Animal Behavior Through Spoor Placement\"",
+      "kind": "skill-book",
+      "category": "Tracking",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tracking%20V%3A%20%22Understanding%20Animal%20Behavior%20Through%20Spoor%20Placement%22",
+      "skill": "Tracking",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookTrapping1",
+      "name": "Trapping I: \"Basic Pest Control\"",
+      "kind": "skill-book",
+      "category": "Trapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Trapping%20I%3A%20%22Basic%20Pest%20Control%22",
+      "skill": "Trapping",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookTrapping2",
+      "name": "Trapping II: \"Better Trapping, with Dean\"",
+      "kind": "skill-book",
+      "category": "Trapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Trapping%20II%3A%20%22Better%20Trapping%2C%20with%20Dean%22",
+      "skill": "Trapping",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookTrapping3",
+      "name": "Trapping III: \"Park Rangers Wildlife Handbook '93\"",
+      "kind": "skill-book",
+      "category": "Trapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Trapping%20III%3A%20%22Park%20Rangers%20Wildlife%20Handbook%20'93%22",
+      "skill": "Trapping",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookTrapping4",
+      "name": "Trapping IV: \"Research on Rodents and Mammals of Kentucky\"",
+      "kind": "skill-book",
+      "category": "Trapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Trapping%20IV%3A%20%22Research%20on%20Rodents%20and%20Mammals%20of%20Kentucky%22",
+      "skill": "Trapping",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookTrapping5",
+      "name": "Trapping V: \"The Encyclopedia of Applied Animal Psychology\"",
+      "kind": "skill-book",
+      "category": "Trapping",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Trapping%20V%3A%20%22The%20Encyclopedia%20of%20Applied%20Animal%20Psychology%22",
+      "skill": "Trapping",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.BookMetalWelding1",
+      "name": "Welding I: \"Basics of Welding\"",
+      "kind": "skill-book",
+      "category": "Welding",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Welding%20I%3A%20%22Basics%20of%20Welding%22",
+      "skill": "Welding",
+      "tier": 1,
+      "levelStart": 1,
+      "levelEnd": 2,
+      "pages": 220
+    },
+    {
+      "id": "Base.BookMetalWelding2",
+      "name": "Welding II: \"Building with Metal\"",
+      "kind": "skill-book",
+      "category": "Welding",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Welding%20II%3A%20%22Building%20with%20Metal%22",
+      "skill": "Welding",
+      "tier": 2,
+      "levelStart": 3,
+      "levelEnd": 4,
+      "pages": 260
+    },
+    {
+      "id": "Base.BookMetalWelding3",
+      "name": "Welding III: \"Machining Metal: The Mass Genfac Guide\"",
+      "kind": "skill-book",
+      "category": "Welding",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Welding%20III%3A%20%22Machining%20Metal%3A%20The%20Mass%20Genfac%20Guide%22",
+      "skill": "Welding",
+      "tier": 3,
+      "levelStart": 5,
+      "levelEnd": 6,
+      "pages": 300
+    },
+    {
+      "id": "Base.BookMetalWelding4",
+      "name": "Welding IV: \"Ore to Sheets: A Complete Metalworking Manual\"",
+      "kind": "skill-book",
+      "category": "Welding",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Welding%20IV%3A%20%22Ore%20to%20Sheets%3A%20A%20Complete%20Metalworking%20Manual%22",
+      "skill": "Welding",
+      "tier": 4,
+      "levelStart": 7,
+      "levelEnd": 8,
+      "pages": 340
+    },
+    {
+      "id": "Base.BookMetalWelding5",
+      "name": "Welding V: \"Technological Fundamentals of Metal Fabrication\"",
+      "kind": "skill-book",
+      "category": "Welding",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Welding%20V%3A%20%22Technological%20Fundamentals%20of%20Metal%20Fabrication%22",
+      "skill": "Welding",
+      "tier": 5,
+      "levelStart": 9,
+      "levelEnd": 10,
+      "pages": 380
+    },
+    {
+      "id": "Base.TailoringMag9",
+      "name": "Magazine: Alpine Explorers",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Alpine%20Explorers",
+      "recipes": [
+        "Make Advanced Framepack Frame",
+        "Make Advanced Large Framepack Frame",
+        "Assemble Framepack",
+        "Assemble Large Framepack",
+        "Sew Sheepskin Pants"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag8",
+      "name": "Magazine: American Bladecraft",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20American%20Bladecraft",
+      "recipes": [
+        "Forge Meat Cleaver Blade",
+        "Forge Hunting Knife Blade",
+        "Forge Machete Blade",
+        "Forge Hatchet Head",
+        "Forge Wood Axe Head",
+        "Forge Axe Head",
+        "Forge Small Knife",
+        "Forge Large Knife Blade",
+        "Forge Fleshing Tool"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag5",
+      "name": "Magazine: American Homesteading",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20American%20Homesteading",
+      "recipes": [
+        "Make Jar of Preserved Food"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag1",
+      "name": "Magazine: Ancient Tailoring",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Ancient%20Tailoring",
+      "recipes": [
+        "Carve Bone Awl",
+        "Carve Bone Sewing Needle",
+        "Sew Hide Hoodie",
+        "Sew Hide Robe",
+        "Sew Hide Pants",
+        "Weave Twine Shoes"
+      ]
+    },
+    {
+      "id": "Base.FishingMag1",
+      "name": "Magazine: Angler USA - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Angler%20USA%20-%20June%201993",
+      "recipes": [
+        "Make Fishing Rod",
+        "Fix Fishing Rod",
+        "Make Chum Base"
+      ]
+    },
+    {
+      "id": "Base.FishingMag2",
+      "name": "Magazine: Angler USA - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Angler%20USA%20-%20May%201993",
+      "recipes": [
+        "Make Fishing Net",
+        "Dismantle Fishing Net"
+      ]
+    },
+    {
+      "id": "Base.ArmorMag5",
+      "name": "Magazine: Armor in the Iron Age",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Armor%20in%20the%20Iron%20Age",
+      "recipes": [
+        "Assemble Forearm Armor",
+        "Forge Metal Body Armor",
+        "Assemble Metal Shoulder Armor",
+        "Assemble Metal Thigh Armor",
+        "Assemble Shin Armor",
+        "Forge Metal Mask",
+        "Forge Buckle"
+      ]
+    },
+    {
+      "id": "Base.WeaponMag4",
+      "name": "Magazine: Bloody Japanese Wrestling Deathmatch!",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Bloody%20Japanese%20Wrestling%20Deathmatch!",
+      "recipes": [
+        "Barbed-Wire Wrap Weapon"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag3",
+      "name": "Magazine: Blooms and Blossoms",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Blooms%20and%20Blossoms",
+      "recipes": [
+        "Chamomile Growing Season",
+        "Marigold Growing Season",
+        "Sunflower Growing Season",
+        "Rose Growing Season",
+        "Poppy Growing Season",
+        "Lavender Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag5",
+      "name": "Magazine: Blunt Forge",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Blunt%20Forge",
+      "recipes": [
+        "Forge Claw Hammer Head",
+        "Forge Crowbar",
+        "Forge Sledgehammer Head",
+        "Forge Ball-peen Hammer Head",
+        "Forge Club Hammer Head",
+        "Forge Pick Axe Head"
+      ]
+    },
+    {
+      "id": "Base.GlassmakingMag3",
+      "name": "Magazine: Bottle Making at Home",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Bottle%20Making%20at%20Home",
+      "recipes": [
+        "Make Glass Bottle",
+        "Make Glass Jar"
+      ]
+    },
+    {
+      "id": "Base.GlassmakingMag2",
+      "name": "Magazine: Carlow Crystal Guide",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Carlow%20Crystal%20Guide",
+      "recipes": [
+        "Make Drinking Glass",
+        "Make Glass Pane"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag5",
+      "name": "Magazine: Cowboy Living",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Cowboy%20Living",
+      "recipes": [
+        "Sew Holster",
+        "Sew Double Holster",
+        "Make Western Boots",
+        "Sew Furred Hide Coat",
+        "Sew Furred Hide Jacket",
+        "Sew Leather Pants",
+        "Sew Sheepskin Vest"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag6",
+      "name": "Magazine: Cropping for Cash",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Cropping%20for%20Cash",
+      "recipes": [
+        "Barley Growing Season",
+        "Corn Growing Season",
+        "Flax Growing Season",
+        "Rye Growing Season",
+        "Soybean Growing Season",
+        "Sugar Beet Growing Season",
+        "Tobacco Growing Season",
+        "Wheat Growing Season"
+      ]
+    },
+    {
+      "id": "Base.PrimitiveToolMag2",
+      "name": "Magazine: Cultures of Prehistory",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Cultures%20of%20Prehistory",
+      "recipes": [
+        "Carve Bone Fishing Hook",
+        "Knap Stone Awl",
+        "Knap Stone Chisel",
+        "Knap Stone Drill",
+        "Make Improvised Whetstone",
+        "Knapp Flint Saw",
+        "Carve Whistle"
+      ]
+    },
+    {
+      "id": "Base.CookingMag6",
+      "name": "Magazine: Delicious Meals - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Delicious%20Meals%20-%20June%201993",
+      "recipes": [
+        "Prepare Breaded Shrimp",
+        "Prepare 2 Breaded Onion Rings",
+        "Make 4 Cabbage Rolls",
+        "Make Guacamole"
+      ]
+    },
+    {
+      "id": "Base.ArmorMag2",
+      "name": "Magazine: Early Indigenous Armor - An In-Depth Study",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Early%20Indigenous%20Armor%20-%20An%20In-Depth%20Study",
+      "recipes": [
+        "Make Bone Body Armor",
+        "Make Bone Choker",
+        "Make Bone Forearm Armor",
+        "Make Bone Shin Armor",
+        "Make Bone Shoulder Armor",
+        "Make Bone Thigh Armor",
+        "Make Wooden Body Armor",
+        "Make Wooden Forearm Armor",
+        "Make Wooden Shin Armor",
+        "Make Wooden Shoulder Armor",
+        "Make Wooden Thigh Armor"
+      ]
+    },
+    {
+      "id": "Base.ArmorMag4",
+      "name": "Magazine: European Armor in the Late Medieval Era",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20European%20Armor%20in%20the%20Late%20Medieval%20Era",
+      "recipes": [
+        "Assemble Shoulder Armor",
+        "Assemble Articulated Metal Thigh Armor",
+        "Forge Codpiece",
+        "Forge Metal Neck Guard",
+        "Assemble Full Metal Forearm Armor",
+        "Assemble Articulated Metal Shin Armor",
+        "Forge Fingerless Metal Gloves",
+        "Forge Metal Helmet",
+        "Forge Coat of Plates Body Armor",
+        "Forge Buckle"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag3",
+      "name": "Magazine: Everyday Smithing - April 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Everyday%20Smithing%20-%20April%201993",
+      "recipes": [
+        "Forge Steel Sheet",
+        "Forge Small Steel Sheet",
+        "Forge Saw",
+        "Forge Spade Head",
+        "Forge Gardening Trowel",
+        "Forge Gardening Hoe Head",
+        "Forge Hand Scythe Head",
+        "Forge Sheep Shears",
+        "Forge Scythe Head",
+        "Forge Lantern"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag1",
+      "name": "Magazine: Everyday Smithing - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Everyday%20Smithing%20-%20June%201993",
+      "recipes": [
+        "Forge Tongs",
+        "Forge Heading Tool",
+        "Forge Draw Plate",
+        "Forge 10 Nails",
+        "Forge Smithing Hammer Head",
+        "Forge Masonry Chisel",
+        "Forge Masonry Trowel",
+        "Forge Metalworking Chisel",
+        "Forge Metalworking Punch",
+        "Forge Metalworking Pliers",
+        "Forge Fireplace Poker",
+        "Make Improvised Whetstone",
+        "Forge File",
+        "Forge Drill",
+        "Drill Draw Plate",
+        "Drill Heading Tool",
+        "Forge Wrench"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag2",
+      "name": "Magazine: Everyday Smithing - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Everyday%20Smithing%20-%20May%201993",
+      "recipes": [
+        "Forge Kitchen Tools",
+        "Forge Cooking Pot",
+        "Forge Roasting Pan",
+        "Forge Saucepan",
+        "Forge Baking Tray",
+        "Forge Baking Pan",
+        "Forge Frying Pan",
+        "Forge Bucket",
+        "Forge Corkscrew",
+        "Forge Kettle",
+        "Forge Goblet",
+        "Forge Cup"
+      ]
+    },
+    {
+      "id": "Base.ArmorMag7",
+      "name": "Magazine: FBI Incident Report: San Fernando Bank Robbery",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20FBI%20Incident%20Report%3A%20San%20Fernando%20Bank%20Robbery",
+      "recipes": [
+        "Make Bulletproof Limb Armor"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag7",
+      "name": "Magazine: Fun in the Woods!",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Fun%20in%20the%20Woods!",
+      "recipes": [
+        "Assemble Small Simple Framepack",
+        "Assemble Simple Framepack",
+        "Sew Cloth Satchel",
+        "Sew Small Leather Backpack"
+      ]
+    },
+    {
+      "id": "Base.HuntingMag4",
+      "name": "Magazine: Get Stuffed",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Get%20Stuffed",
+      "recipes": [
+        "Make Stag Head Trophy"
+      ]
+    },
+    {
+      "id": "Base.CookingMag1",
+      "name": "Magazine: Good Cooking - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Good%20Cooking%20-%20June%201993",
+      "recipes": [
+        "Make Cake Batter",
+        "Prepare Pie Dough"
+      ]
+    },
+    {
+      "id": "Base.CookingMag2",
+      "name": "Magazine: Good Cooking - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Good%20Cooking%20-%20May%201993",
+      "recipes": [
+        "Prepare Bread Dough",
+        "Prepare Baguette",
+        "Prepare Biscuits"
+      ]
+    },
+    {
+      "id": "Base.CookingMag4",
+      "name": "Magazine: Grandma's Kitchen",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Grandma's%20Kitchen",
+      "recipes": [
+        "Prepare Chocolate Cookies",
+        "Prepare Chocolate Chip Cookies",
+        "Prepare Oatmeal Cookies",
+        "Prepare Sugar Cookies",
+        "Prepare Shortbread Cookies"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag7",
+      "name": "Magazine: Growing Your Own",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Growing%20Your%20Own",
+      "recipes": [
+        "Bell Pepper Growing Season",
+        "Broccoli Growing Season",
+        "Cabbage Growing Season",
+        "Carrot Growing Season",
+        "Cauliflower Growing Season",
+        "Cucumber Growing Season",
+        "Garlic Growing Season",
+        "Green Pea Growing Season",
+        "Habanero Growing Season",
+        "Jalapeno Growing Season",
+        "Kale Growing Season",
+        "Leek Growing Season",
+        "Lettuce Growing Season",
+        "Onion Growing Season",
+        "Potato Growing Season",
+        "Pumpkin Growing Season",
+        "Radish Growing Season",
+        "Spinach Growing Season",
+        "Strawberry Growing Season",
+        "Sweet Potato Growing Season",
+        "Tomato Growing Season",
+        "Turnip Growing Season",
+        "Watermelon Growing Season",
+        "Zucchini Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RadioMag1",
+      "name": "Magazine: Guerilla Radio - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Guerilla%20Radio%20-%20June%201993",
+      "recipes": [
+        "Make Makeshift Radio"
+      ]
+    },
+    {
+      "id": "Base.RadioMag3",
+      "name": "Magazine: Guerilla Radio - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Guerilla%20Radio%20-%20May%201993",
+      "recipes": [
+        "Make Makeshift Ham Radio"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag9",
+      "name": "Magazine: Herbal Remedy Growing",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Herbal%20Remedy%20Growing",
+      "recipes": [
+        "Black Sage Growing Season",
+        "Broadleaf Plantain Growing Season",
+        "Comfrey Growing Season",
+        "Common Mallow Growing Season",
+        "Wild Garlic Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ElectronicsMag3",
+      "name": "Magazine: Home Security Monthly",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Home%20Security%20Monthly",
+      "recipes": [
+        "Add Short-Range Motion Sensor to Bomb",
+        "Add Medium-Range Motion Sensor to Bomb",
+        "Add Long-Range Motion Sensor to Bomb"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag10",
+      "name": "Magazine: Homespun",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Homespun",
+      "recipes": [
+        "Sew Knee-Length Dress",
+        "Sew Long Dress",
+        "Sew Shirt",
+        "Sew Knee-Length Skirt",
+        "Sew Long Skirt",
+        "Sew Long Johns",
+        "Sew Long Johns Bottom",
+        "Sew Sleeveless Shirt",
+        "Sew Pants"
+      ]
+    },
+    {
+      "id": "Base.ElectronicsMag4",
+      "name": "Magazine: How to Use Generators",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20How%20to%20Use%20Generators",
+      "recipes": [
+        "Generator Maintenance"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag9",
+      "name": "Magazine: Iron Age Blacksmithing",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Iron%20Age%20Blacksmithing",
+      "recipes": [
+        "Charcoal Burning Pile",
+        "Construct Primitive Forge",
+        "Construct Primitive Furnace"
+      ]
+    },
+    {
+      "id": "Base.CookingMag3",
+      "name": "Magazine: Italian Delights",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Italian%20Delights",
+      "recipes": [
+        "Prepare Pizza"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag1",
+      "name": "Magazine: Kentucky Farmer - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Kentucky%20Farmer%20-%20June%201993",
+      "recipes": [
+        "Make Mildew Cure"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag2",
+      "name": "Magazine: Kentucky Farmer - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Kentucky%20Farmer%20-%20May%201993",
+      "recipes": [
+        "Make Flies Cure from Cigarettes",
+        "Make Flies Cure from Loose Tobacco",
+        "Make Flies Cure from Chewing Tobacco",
+        "Make Aphids Cure"
+      ]
+    },
+    {
+      "id": "Base.MechanicMag2",
+      "name": "Magazine: Laines Commercial Auto Manual",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Laines%20Commercial%20Auto%20Manual",
+      "recipes": [
+        "Intermediate Mechanics"
+      ]
+    },
+    {
+      "id": "Base.MechanicMag3",
+      "name": "Magazine: Laines Performance Auto Manual",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Laines%20Performance%20Auto%20Manual",
+      "recipes": [
+        "Advanced Mechanics"
+      ]
+    },
+    {
+      "id": "Base.MechanicMag1",
+      "name": "Magazine: Laines Standard Auto Manual",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Laines%20Standard%20Auto%20Manual",
+      "recipes": [
+        "Basic Mechanics"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag4",
+      "name": "Magazine: Leather Crafts",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Leather%20Crafts",
+      "recipes": [
+        "Sew Hide Wallet",
+        "Sew Belt",
+        "Sew Leather Tool Roll",
+        "Sew Sandals",
+        "Sew Leather Gloves"
+      ]
+    },
+    {
+      "id": "Base.HempMag1",
+      "name": "Magazine: Legalize It!",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Legalize%20It!",
+      "recipes": [
+        "Hemp Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ElectronicsMag2",
+      "name": "Magazine: Like Clockwork",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Like%20Clockwork",
+      "recipes": [
+        "Make Timer",
+        "Add Timer to Bomb"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag7",
+      "name": "Magazine: Medieval Armory - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Medieval%20Armory%20-%20June%201993",
+      "recipes": [
+        "Forge Crude Sword Blade",
+        "Forge Simple Shortsword Blade",
+        "Forge Sword Blade",
+        "Forge Shortsword Blade",
+        "Forge Spear Head",
+        "Forge Long Spear Head",
+        "Forge Handguard Dagger"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag11",
+      "name": "Magazine: Medieval Armory - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Medieval%20Armory%20-%20May%201993",
+      "recipes": [
+        "Forge Mace Head",
+        "Make Spiked Club",
+        "Make Spiked Baseball Bat",
+        "Make Spiked Cudgel",
+        "Forge Axe Head",
+        "Carve Short Bat"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag10",
+      "name": "Magazine: Medieval Blacksmithing",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Medieval%20Blacksmithing",
+      "recipes": [
+        "Construct Smelting Furnace",
+        "Construct Blast Furnace"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag3",
+      "name": "Magazine: Medieval Peasant Clothing",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Medieval%20Peasant%20Clothing",
+      "recipes": [
+        "Sew Hide Boots",
+        "Sew Hide Coat",
+        "Sew Hide Hat",
+        "Sew Hide Jacket"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag6",
+      "name": "Magazine: Modern Blacksmithing at Home",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Modern%20Blacksmithing%20at%20Home",
+      "recipes": [
+        "Simple Forge",
+        "Construct Advanced Forge"
+      ]
+    },
+    {
+      "id": "Base.GlassmakingMag1",
+      "name": "Magazine: Murano Glass Manual",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Murano%20Glass%20Manual",
+      "recipes": [
+        "Make Wine Glass",
+        "Make Lantern Glass"
+      ]
+    },
+    {
+      "id": "Base.WeaponMag2",
+      "name": "Magazine: No Man's Land",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20No%20Man's%20Land",
+      "recipes": [
+        "Can-Reinforce Weapon",
+        "Make Gas Mask Filter",
+        "Recharge Filters"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag8",
+      "name": "Magazine: Outdoor Gear, Done Right",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Outdoor%20Gear%2C%20Done%20Right",
+      "recipes": [
+        "Sew Leather Gaiter",
+        "Sew Leather Water Bag",
+        "Sew Hide Sleeping Bag",
+        "Sew Bandolier",
+        "Sew Hide Fanny Pack"
+      ]
+    },
+    {
+      "id": "Base.ArmorMag1",
+      "name": "Magazine: Outfit Apocalypse",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Outfit%20Apocalypse",
+      "recipes": [
+        "Make Tire Body Armor",
+        "Make Tire Forearm Armor",
+        "Make Tire Shin Armor",
+        "Make Tire Shoulder Armor - Left",
+        "Make Tire Shoulder Armor - Right",
+        "Spike Soft Armor",
+        "Sew Leather Codpiece",
+        "Sew Leather Neck Guard"
+      ]
+    },
+    {
+      "id": "Base.PrimitiveToolMag3",
+      "name": "Magazine: Pioneering Carvers",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Pioneering%20Carvers",
+      "recipes": [
+        "Carve Knitting Needles",
+        "Carve Wooden Fork",
+        "Carve Bone Fork",
+        "Carve Wooden Spade",
+        "Carve Goblets",
+        "Carve Bucket"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag2",
+      "name": "Magazine: Punk Fashion - From Trash to Thrash",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Punk%20Fashion%20-%20From%20Trash%20to%20Thrash",
+      "recipes": [
+        "Make Garbage Bag Tank Top",
+        "Make Garbage Bag Dress"
+      ]
+    },
+    {
+      "id": "Base.TailoringMag6",
+      "name": "Magazine: Real Gladiators",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Real%20Gladiators",
+      "recipes": [
+        "Sew Leather Vambrace",
+        "Sew Leather Codpiece",
+        "Sew Leather Neck Guard",
+        "Sew Elbow Pads",
+        "Sew Knee Pads"
+      ]
+    },
+    {
+      "id": "Base.EngineerMagazine1",
+      "name": "Magazine: Real Spy Secrets - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Real%20Spy%20Secrets%20-%20June%201993",
+      "recipes": [
+        "Make Noise Maker",
+        "Make Firecracker"
+      ]
+    },
+    {
+      "id": "Base.TrickMag1",
+      "name": "Magazine: Real Spy Secrets - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Real%20Spy%20Secrets%20-%20May%201993",
+      "recipes": [
+        "Hollow Out Book"
+      ]
+    },
+    {
+      "id": "Base.WeaponMag6",
+      "name": "Magazine: Revolting Peasants",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Revolting%20Peasants",
+      "recipes": [
+        "Make Garden Fork Head Weapon",
+        "Make Spade Head Cudgel",
+        "Make Railspike Weapon",
+        "Make Plank with Saw"
+      ]
+    },
+    {
+      "id": "Base.ArmorMag3",
+      "name": "Magazine: Secrets of the Outback Outlaws",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Secrets%20of%20the%20Outback%20Outlaws",
+      "recipes": [
+        "Make Scrap Metal Helmet",
+        "Make Scrap Metal Body Armor",
+        "Make Scrap Metal Shoulder Armor",
+        "Make Scrap Metal Thigh Armor"
+      ]
+    },
+    {
+      "id": "Base.HuntingMag1",
+      "name": "Magazine: Small Game Hunting",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Small%20Game%20Hunting",
+      "recipes": [
+        "Make Snare Trap"
+      ]
+    },
+    {
+      "id": "Base.SmithingMag4",
+      "name": "Magazine: Small-Scale Smithing",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Small-Scale%20Smithing",
+      "recipes": [
+        "Forge Tweezers",
+        "Forge Forceps",
+        "Forge Scissors",
+        "Forge Doorknob",
+        "Forge Hinge",
+        "Forge Straight Razor",
+        "Forge 4 Fishing Hooks",
+        "Forge Needle",
+        "Forge Buckle"
+      ]
+    },
+    {
+      "id": "Base.ElectronicsMag5",
+      "name": "Magazine: Sparky's Lighting Guide",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Sparky's%20Lighting%20Guide",
+      "recipes": [
+        "Make Improvised Flashlight",
+        "Make Improvised Lantern"
+      ]
+    },
+    {
+      "id": "Base.RadioMag2",
+      "name": "Magazine: Sparky's Radio Guide",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Sparky's%20Radio%20Guide",
+      "recipes": [
+        "Make Makeshift Walkie Talkie"
+      ]
+    },
+    {
+      "id": "Base.ArmorMag6",
+      "name": "Magazine: Strange Histories - Siberian Bear Hunting",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Strange%20Histories%20-%20Siberian%20Bear%20Hunting",
+      "recipes": [
+        "Spike Soft Armor",
+        "Weld Spikes On Metal Armor",
+        "Forge Spear Head",
+        "Forge Long Spear Head"
+      ]
+    },
+    {
+      "id": "Base.EngineerMagazine2",
+      "name": "Magazine: The Cheapskate's John Spiral - Chemical Warfare",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Cheapskate's%20John%20Spiral%20-%20Chemical%20Warfare",
+      "recipes": [
+        "Make Smoke Bomb",
+        "Make Gas Mask Filter",
+        "Make Improvised Gas Mask",
+        "Recharge Filters"
+      ]
+    },
+    {
+      "id": "Base.KeyMag1",
+      "name": "Magazine: The Cheapskate's John Spiral - Escaping Captivity",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Cheapskate's%20John%20Spiral%20-%20Escaping%20Captivity",
+      "recipes": [
+        "Copy Building Key",
+        "Make Improvised Screwdriver"
+      ]
+    },
+    {
+      "id": "Base.TrickMag2",
+      "name": "Magazine: The Cheapskate's John Spiral - Forging New Identities",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Cheapskate's%20John%20Spiral%20-%20Forging%20New%20Identities",
+      "recipes": [
+        "Make Blank ID"
+      ]
+    },
+    {
+      "id": "Base.EngineerMagazine3",
+      "name": "Magazine: The Cheapskate's John Spiral - Homemade Explosives",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Cheapskate's%20John%20Spiral%20-%20Homemade%20Explosives",
+      "recipes": [
+        "Make Aerosol Bomb",
+        "Make Fire Bomb",
+        "Make Pipe Bomb"
+      ]
+    },
+    {
+      "id": "Base.WeaponMag3",
+      "name": "Magazine: The Cheapskate's John Spiral - Prison Defense",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Cheapskate's%20John%20Spiral%20-%20Prison%20Defense",
+      "recipes": [
+        "Make Shiv",
+        "Make Glass Shiv",
+        "Make Toothbrush Shiv",
+        "Make Magazine Armor",
+        "Make Improvised Lighter"
+      ]
+    },
+    {
+      "id": "Base.WeaponMag5",
+      "name": "Magazine: The Cheapskate's John Spiral - Street Violence",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Cheapskate's%20John%20Spiral%20-%20Street%20Violence",
+      "recipes": [
+        "Make Rake-Head-Spiked Weapon",
+        "Make Sawblade Wooden Bat",
+        "Sheet Metal-Reinforce Weapon",
+        "Make Plank with Saw",
+        "Make Bucket Maul",
+        "Make Kettle Maul",
+        "Make Brake Disc Weapon"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag4",
+      "name": "Magazine: The Farmers Guide",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Farmers%20Guide",
+      "recipes": [
+        "Make Scarecrow",
+        "Make Barbed Wire from Wire"
+      ]
+    },
+    {
+      "id": "Base.WeaponMag1",
+      "name": "Magazine: The First Weapons",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20First%20Weapons",
+      "recipes": [
+        "Carve Bone War Hatchet Head",
+        "Make Jawbone Axe",
+        "Make Jawbone Club",
+        "Make Bone Club",
+        "Sharpen Bone",
+        "Sharpen Long Bone",
+        "Sharpen Jawbone",
+        "Bone Spike Weapon"
+      ]
+    },
+    {
+      "id": "Base.HuntingMag2",
+      "name": "Magazine: The Hunter",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Hunter",
+      "recipes": [
+        "Make Crate Trap",
+        "Make Stick Trap"
+      ]
+    },
+    {
+      "id": "Base.WeaponMag7",
+      "name": "Magazine: The Louisville Bruiser",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20The%20Louisville%20Bruiser",
+      "recipes": [
+        "Carve Bat"
+      ]
+    },
+    {
+      "id": "Base.FarmingMag8",
+      "name": "Magazine: Thyme Time",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Thyme%20Time",
+      "recipes": [
+        "Basil Growing Season",
+        "Chives Growing Season",
+        "Cilantro Growing Season",
+        "Lemongrass Growing Season",
+        "Mint Growing Season",
+        "Oregano Growing Season",
+        "Parsley Growing Season",
+        "Sage Growing Season",
+        "Rosemary Growing Season",
+        "Thyme Growing Season",
+        "Hops Growing Season"
+      ]
+    },
+    {
+      "id": "Base.PrimitiveToolMag1",
+      "name": "Magazine: Tool Use of Early Man",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Tool%20Use%20of%20Early%20Man",
+      "recipes": [
+        "Knap Large Stone Axe Head",
+        "Knap Stone Blade",
+        "Knap Stone Maul Head",
+        "Bind Spear Head",
+        "Knap Stone Blade Scythe",
+        "Sharpen Bone",
+        "Carve Fleshing Tool",
+        "Remake Long Stone Blade"
+      ]
+    },
+    {
+      "id": "Base.MetalworkMag3",
+      "name": "Magazine: Welder Monthly - April 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Welder%20Monthly%20-%20April%201993",
+      "recipes": [
+        "Metal Big Pole Fence Gate",
+        "Big Wire Fence Gate",
+        "Metal Wire Fence Gate",
+        "Big Double Pole Gate",
+        "Big Double Wire Gate",
+        "Metal Big Wire Fence",
+        "Metal Big Pole Fence",
+        "Metal Pole Fence Gate",
+        "Metal Pole Fence",
+        "Metal Fence",
+        "Metal Wire Fence"
+      ]
+    },
+    {
+      "id": "Base.MetalworkMag1",
+      "name": "Magazine: Welder Monthly - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Welder%20Monthly%20-%20June%201993",
+      "recipes": [
+        "Metal Wall (Basic)",
+        "Metal Wall (Advanced)",
+        "Metal Floor",
+        "Metal Window Frame",
+        "Metal Wall Frame",
+        "Metal Door Frame",
+        "Metal Stairs"
+      ]
+    },
+    {
+      "id": "Base.MetalworkMag4",
+      "name": "Magazine: Welder Monthly - March 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Welder%20Monthly%20-%20March%201993",
+      "recipes": [
+        "Make Metal Sheet",
+        "Cut 4 Small Metal Sheets"
+      ]
+    },
+    {
+      "id": "Base.MetalworkMag2",
+      "name": "Magazine: Welder Monthly - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Welder%20Monthly%20-%20May%201993",
+      "recipes": [
+        "Metal Counter",
+        "Metal Counter Corner",
+        "Metal Crate",
+        "Metal Big Locker",
+        "Metal Small Locker",
+        "Metal Shelves"
+      ]
+    },
+    {
+      "id": "Base.HerbalistMag",
+      "name": "Magazine: Wilderness Survival",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Wilderness%20Survival",
+      "recipes": [
+        "Herbal Remedies",
+        "Knap Stone Blade",
+        "Fire Harden Spear",
+        "Make Improvised Whetstone",
+        "Grind Up Plantain",
+        "Grind Up Comfrey",
+        "Grind Up Wild Garlic",
+        "Bind Spear Head"
+      ]
+    },
+    {
+      "id": "Base.HuntingMag3",
+      "name": "Magazine: Wildlife Preserve",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Wildlife%20Preserve",
+      "recipes": [
+        "Make Box Trap",
+        "Make Cage Trap"
+      ]
+    },
+    {
+      "id": "Base.KnittingMag1",
+      "name": "Magazine: Woolly Yarns - June 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Woolly%20Yarns%20-%20June%201993",
+      "recipes": [
+        "Knit Scarf",
+        "Knit Legwarmers",
+        "Knit Sweater Vest",
+        "Knit Socks",
+        "Knit Doily"
+      ]
+    },
+    {
+      "id": "Base.KnittingMag2",
+      "name": "Magazine: Woolly Yarns - May 1993",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Woolly%20Yarns%20-%20May%201993",
+      "recipes": [
+        "Knit Wool Hat",
+        "Knit Open-Face Balaclava",
+        "Knit Full Balaclava",
+        "Knit Beanie"
+      ]
+    },
+    {
+      "id": "Base.CookingMag5",
+      "name": "Magazine: World Cooking",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20World%20Cooking",
+      "recipes": [
+        "Prepare Sushi",
+        "Prepare Maki",
+        "Prepare Onigiri"
+      ]
+    },
+    {
+      "id": "Base.ElectronicsMag1",
+      "name": "Magazine: Zapper!",
+      "kind": "recipe-literature",
+      "category": "RecipeResource",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Magazine%3A%20Zapper!",
+      "recipes": [
+        "Make Remote Controller (Short-Range)",
+        "Make Remote Controller (Medium-Range)",
+        "Make Remote Controller (Long-Range)",
+        "Make Remote Trigger",
+        "Add Remote Trigger to Bomb"
+      ]
+    },
+    {
+      "id": "Base.BarleyBagSeed_Empty",
+      "name": "Empty Seed Packet - Barley",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Barley",
+      "recipes": [
+        "Barley Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BasilBagSeed_Empty",
+      "name": "Empty Seed Packet - Basil",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Basil",
+      "recipes": [
+        "Basil Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BellPepperBagSeed_Empty",
+      "name": "Empty Seed Packet - Bell Pepper",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Bell%20Pepper",
+      "recipes": [
+        "Bell Pepper Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BlackSageBagSeed_Empty",
+      "name": "Empty Seed Packet - Black Sage",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Black%20Sage",
+      "recipes": [
+        "Black Sage Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BroadleafPlantainBagSeed_Empty",
+      "name": "Empty Seed Packet - Broadleaf Plantain",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Broadleaf%20Plantain",
+      "recipes": [
+        "Broadleaf Plantain Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BroccoliBagSeed2_Empty",
+      "name": "Empty Seed Packet - Broccoli",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Broccoli",
+      "recipes": [
+        "Broccoli Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CabbageBagSeed2_Empty",
+      "name": "Empty Seed Packet - Cabbage",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Cabbage",
+      "recipes": [
+        "Cabbage Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CarrotBagSeed2_Empty",
+      "name": "Empty Seed Packet - Carrot",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Carrot",
+      "recipes": [
+        "Carrot Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CauliflowerBagSeed_Empty",
+      "name": "Empty Seed Packet - Cauliflower",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Cauliflower",
+      "recipes": [
+        "Cauliflower Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ChamomileBagSeed_Empty",
+      "name": "Empty Seed Packet - Chamomile",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Chamomile",
+      "recipes": [
+        "Chamomile Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ChivesBagSeed_Empty",
+      "name": "Empty Seed Packet - Chives",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Chives",
+      "recipes": [
+        "Chives Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CilantroBagSeed_Empty",
+      "name": "Empty Seed Packet - Cilantro",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Cilantro",
+      "recipes": [
+        "Cilantro Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ComfreyBagSeed_Empty",
+      "name": "Empty Seed Packet - Comfrey",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Comfrey",
+      "recipes": [
+        "Comfrey Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CommonMallowBagSeed_Empty",
+      "name": "Empty Seed Packet - Common Mallow",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Common%20Mallow",
+      "recipes": [
+        "Common Mallow Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CornBagSeed_Empty",
+      "name": "Empty Seed Packet - Corn",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Corn",
+      "recipes": [
+        "Corn Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CucumberBagSeed_Empty",
+      "name": "Empty Seed Packet - Cucumber",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Cucumber",
+      "recipes": [
+        "Cucumber Growing Season"
+      ]
+    },
+    {
+      "id": "Base.FlaxBagSeed_Empty",
+      "name": "Empty Seed Packet - Flax",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Flax",
+      "recipes": [
+        "Flax Growing Season"
+      ]
+    },
+    {
+      "id": "Base.GarlicBagSeed_Empty",
+      "name": "Empty Seed Packet - Garlic",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Garlic",
+      "recipes": [
+        "Garlic Growing Season"
+      ]
+    },
+    {
+      "id": "Base.GreenpeasBagSeed_Empty",
+      "name": "Empty Seed Packet - Green Peas",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Green%20Peas",
+      "recipes": [
+        "Green Pea Growing Season"
+      ]
+    },
+    {
+      "id": "Base.HabaneroBagSeed_Empty",
+      "name": "Empty Seed Packet - Habanero",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Habanero",
+      "recipes": [
+        "Habanero Growing Season"
+      ]
+    },
+    {
+      "id": "Base.HempBagSeed_Empty",
+      "name": "Empty Seed Packet - Hemp",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Hemp",
+      "recipes": [
+        "Hemp Growing Season"
+      ]
+    },
+    {
+      "id": "Base.HopsBagSeed_Empty",
+      "name": "Empty Seed Packet - Hops",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Hops",
+      "recipes": [
+        "Hops Growing Season"
+      ]
+    },
+    {
+      "id": "Base.JalapenoBagSeed_Empty",
+      "name": "Empty Seed Packet - Jalapeno",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Jalapeno",
+      "recipes": [
+        "Jalapeno Growing Season"
+      ]
+    },
+    {
+      "id": "Base.KaleBagSeed_Empty",
+      "name": "Empty Seed Packet - Kale",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Kale",
+      "recipes": [
+        "Kale Growing Season"
+      ]
+    },
+    {
+      "id": "Base.LavenderBagSeed_Empty",
+      "name": "Empty Seed Packet - Lavender",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Lavender",
+      "recipes": [
+        "Lavender Growing Season"
+      ]
+    },
+    {
+      "id": "Base.LeekBagSeed_Empty",
+      "name": "Empty Seed Packet - Leek",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Leek",
+      "recipes": [
+        "Leek Growing Season"
+      ]
+    },
+    {
+      "id": "Base.LemonGrassBagSeed_Empty",
+      "name": "Empty Seed Packet - Lemongrass",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Lemongrass",
+      "recipes": [
+        "Lemongrass Growing Season"
+      ]
+    },
+    {
+      "id": "Base.LettuceBagSeed_Empty",
+      "name": "Empty Seed Packet - Lettuce",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Lettuce",
+      "recipes": [
+        "Lettuce Growing Season"
+      ]
+    },
+    {
+      "id": "Base.MarigoldBagSeed_Empty",
+      "name": "Empty Seed Packet - Marigold",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Marigold",
+      "recipes": [
+        "Marigold Growing Season"
+      ]
+    },
+    {
+      "id": "Base.MintBagSeed_Empty",
+      "name": "Empty Seed Packet - Mint",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Mint",
+      "recipes": [
+        "Mint Growing Season"
+      ]
+    },
+    {
+      "id": "Base.OnionBagSeed_Empty",
+      "name": "Empty Seed Packet - Onion",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Onion",
+      "recipes": [
+        "Onion Growing Season"
+      ]
+    },
+    {
+      "id": "Base.OreganoBagSeed_Empty",
+      "name": "Empty Seed Packet - Oregano",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Oregano",
+      "recipes": [
+        "Oregano Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ParsleyBagSeed_Empty",
+      "name": "Empty Seed Packet - Parsley",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Parsley",
+      "recipes": [
+        "Parsley Growing Season"
+      ]
+    },
+    {
+      "id": "Base.PoppyBagSeed_Empty",
+      "name": "Empty Seed Packet - Poppy",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Poppy",
+      "recipes": [
+        "Poppy Growing Season"
+      ]
+    },
+    {
+      "id": "Base.PotatoBagSeed2_Empty",
+      "name": "Empty Seed Packet - Potato",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Potato",
+      "recipes": [
+        "Potato Growing Season"
+      ]
+    },
+    {
+      "id": "Base.PumpkinBagSeed_Empty",
+      "name": "Empty Seed Packet - Pumpkin",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Pumpkin",
+      "recipes": [
+        "Pumpkin Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RedRadishBagSeed2_Empty",
+      "name": "Empty Seed Packet - Radish",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Radish",
+      "recipes": [
+        "Radish Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RoseBagSeed_Empty",
+      "name": "Empty Seed Packet - Rose",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Rose",
+      "recipes": [
+        "Rose Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RosemaryBagSeed_Empty",
+      "name": "Empty Seed Packet - Rosemary",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Rosemary",
+      "recipes": [
+        "Rosemary Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RyeBagSeed_Empty",
+      "name": "Empty Seed Packet - Rye",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Rye",
+      "recipes": [
+        "Rye Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SageBagSeed_Empty",
+      "name": "Empty Seed Packet - Sage",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Sage",
+      "recipes": [
+        "Sage Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SoybeansBagSeed_Empty",
+      "name": "Empty Seed Packet - Soybeans",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Soybeans",
+      "recipes": [
+        "Soybean Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SpinachBagSeed_Empty",
+      "name": "Empty Seed Packet - Spinach",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Spinach",
+      "recipes": [
+        "Spinach Growing Season"
+      ]
+    },
+    {
+      "id": "Base.StrewberrieBagSeed2_Empty",
+      "name": "Empty Seed Packet - Strawberry",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Strawberry",
+      "recipes": [
+        "Strawberry Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SugarBeetBagSeed_Empty",
+      "name": "Empty Seed Packet - Sugar Beet",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Sugar%20Beet",
+      "recipes": [
+        "Sugar Beet Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SunflowerBagSeed_Empty",
+      "name": "Empty Seed Packet - Sunflower",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Sunflower",
+      "recipes": [
+        "Sunflower Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SweetPotatoBagSeed_Empty",
+      "name": "Empty Seed Packet - Sweet Potato",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Sweet%20Potato",
+      "recipes": [
+        "Sweet Potato Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ThymeBagSeed_Empty",
+      "name": "Empty Seed Packet - Thyme",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Thyme",
+      "recipes": [
+        "Thyme Growing Season"
+      ]
+    },
+    {
+      "id": "Base.TobaccoBagSeed_Empty",
+      "name": "Empty Seed Packet - Tobacco",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Tobacco",
+      "recipes": [
+        "Tobacco Growing Season"
+      ]
+    },
+    {
+      "id": "Base.TomatoBagSeed2_Empty",
+      "name": "Empty Seed Packet - Tomato",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Tomato",
+      "recipes": [
+        "Tomato Growing Season"
+      ]
+    },
+    {
+      "id": "Base.TurnipBagSeed_Empty",
+      "name": "Empty Seed Packet - Turnip",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Turnip",
+      "recipes": [
+        "Turnip Growing Season"
+      ]
+    },
+    {
+      "id": "Base.WatermelonBagSeed_Empty",
+      "name": "Empty Seed Packet - Watermelon",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Watermelon",
+      "recipes": [
+        "Watermelon Growing Season"
+      ]
+    },
+    {
+      "id": "Base.WheatBagSeed_Empty",
+      "name": "Empty Seed Packet - Wheat",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Wheat",
+      "recipes": [
+        "Wheat Growing Season"
+      ]
+    },
+    {
+      "id": "Base.WildGarlicBagSeed_Empty",
+      "name": "Empty Seed Packet - Wild Garlic",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Wild%20Garlic",
+      "recipes": [
+        "Wild Garlic Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ZucchiniBagSeed_Empty",
+      "name": "Empty Seed Packet - Zucchini",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Empty%20Seed%20Packet%20-%20Zucchini",
+      "recipes": [
+        "Zucchini Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BarleyBagSeed",
+      "name": "Seed Packet - Barley",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Barley",
+      "recipes": [
+        "Barley Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BasilBagSeed",
+      "name": "Seed Packet - Basil",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Basil",
+      "recipes": [
+        "Basil Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BellPepperBagSeed",
+      "name": "Seed Packet - Bell Pepper",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Bell%20Pepper",
+      "recipes": [
+        "Bell Pepper Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BlackSageBagSeed",
+      "name": "Seed Packet - Black Sage",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Black%20Sage",
+      "recipes": [
+        "Black Sage Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BroadleafPlantainBagSeed",
+      "name": "Seed Packet - Broadleaf Plantain",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Broadleaf%20Plantain",
+      "recipes": [
+        "Broadleaf Plantain Growing Season"
+      ]
+    },
+    {
+      "id": "Base.BroccoliBagSeed2",
+      "name": "Seed Packet - Broccoli",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Broccoli",
+      "recipes": [
+        "Broccoli Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CabbageBagSeed2",
+      "name": "Seed Packet - Cabbage",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Cabbage",
+      "recipes": [
+        "Cabbage Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CarrotBagSeed2",
+      "name": "Seed Packet - Carrot",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Carrot",
+      "recipes": [
+        "Carrot Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CauliflowerBagSeed",
+      "name": "Seed Packet - Cauliflower",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Cauliflower",
+      "recipes": [
+        "Cauliflower Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ChamomileBagSeed",
+      "name": "Seed Packet - Chamomile",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Chamomile",
+      "recipes": [
+        "Chamomile Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ChivesBagSeed",
+      "name": "Seed Packet - Chives",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Chives",
+      "recipes": [
+        "Chives Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CilantroBagSeed",
+      "name": "Seed Packet - Cilantro",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Cilantro",
+      "recipes": [
+        "Cilantro Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ComfreyBagSeed",
+      "name": "Seed Packet - Comfrey",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Comfrey",
+      "recipes": [
+        "Comfrey Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CommonMallowBagSeed",
+      "name": "Seed Packet - Common Mallow",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Common%20Mallow",
+      "recipes": [
+        "Common Mallow Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CornBagSeed",
+      "name": "Seed Packet - Corn",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Corn",
+      "recipes": [
+        "Corn Growing Season"
+      ]
+    },
+    {
+      "id": "Base.CucumberBagSeed",
+      "name": "Seed Packet - Cucumber",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Cucumber",
+      "recipes": [
+        "Cucumber Growing Season"
+      ]
+    },
+    {
+      "id": "Base.FlaxBagSeed",
+      "name": "Seed Packet - Flax",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Flax",
+      "recipes": [
+        "Flax Growing Season"
+      ]
+    },
+    {
+      "id": "Base.GarlicBagSeed",
+      "name": "Seed Packet - Garlic",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Garlic",
+      "recipes": [
+        "Garlic Growing Season"
+      ]
+    },
+    {
+      "id": "Base.GreenpeasBagSeed",
+      "name": "Seed Packet - Green Peas",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Green%20Peas",
+      "recipes": [
+        "Green Pea Growing Season"
+      ]
+    },
+    {
+      "id": "Base.HabaneroBagSeed",
+      "name": "Seed Packet - Habanero",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Habanero",
+      "recipes": [
+        "Habanero Growing Season"
+      ]
+    },
+    {
+      "id": "Base.HempBagSeed",
+      "name": "Seed Packet - Hemp",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Hemp",
+      "recipes": [
+        "Hemp Growing Season"
+      ]
+    },
+    {
+      "id": "Base.HopsBagSeed",
+      "name": "Seed Packet - Hops",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Hops",
+      "recipes": [
+        "Hops Growing Season"
+      ]
+    },
+    {
+      "id": "Base.JalapenoBagSeed",
+      "name": "Seed Packet - Jalapeno",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Jalapeno",
+      "recipes": [
+        "Jalapeno Growing Season"
+      ]
+    },
+    {
+      "id": "Base.KaleBagSeed",
+      "name": "Seed Packet - Kale",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Kale",
+      "recipes": [
+        "Kale Growing Season"
+      ]
+    },
+    {
+      "id": "Base.LavenderBagSeed",
+      "name": "Seed Packet - Lavender",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Lavender",
+      "recipes": [
+        "Lavender Growing Season"
+      ]
+    },
+    {
+      "id": "Base.LeekBagSeed",
+      "name": "Seed Packet - Leek",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Leek",
+      "recipes": [
+        "Leek Growing Season"
+      ]
+    },
+    {
+      "id": "Base.LemonGrassBagSeed",
+      "name": "Seed Packet - Lemongrass",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Lemongrass",
+      "recipes": [
+        "Lemongrass Growing Season"
+      ]
+    },
+    {
+      "id": "Base.LettuceBagSeed",
+      "name": "Seed Packet - Lettuce",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Lettuce",
+      "recipes": [
+        "Lettuce Growing Season"
+      ]
+    },
+    {
+      "id": "Base.MarigoldBagSeed",
+      "name": "Seed Packet - Marigold",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Marigold",
+      "recipes": [
+        "Marigold Growing Season"
+      ]
+    },
+    {
+      "id": "Base.MintBagSeed",
+      "name": "Seed Packet - Mint",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Mint",
+      "recipes": [
+        "Mint Growing Season"
+      ]
+    },
+    {
+      "id": "Base.OnionBagSeed",
+      "name": "Seed Packet - Onion",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Onion",
+      "recipes": [
+        "Onion Growing Season"
+      ]
+    },
+    {
+      "id": "Base.OreganoBagSeed",
+      "name": "Seed Packet - Oregano",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Oregano",
+      "recipes": [
+        "Oregano Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ParsleyBagSeed",
+      "name": "Seed Packet - Parsley",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Parsley",
+      "recipes": [
+        "Parsley Growing Season"
+      ]
+    },
+    {
+      "id": "Base.PoppyBagSeed",
+      "name": "Seed Packet - Poppy",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Poppy",
+      "recipes": [
+        "Poppy Growing Season"
+      ]
+    },
+    {
+      "id": "Base.PotatoBagSeed2",
+      "name": "Seed Packet - Potato",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Potato",
+      "recipes": [
+        "Potato Growing Season"
+      ]
+    },
+    {
+      "id": "Base.PumpkinBagSeed",
+      "name": "Seed Packet - Pumpkin",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Pumpkin",
+      "recipes": [
+        "Pumpkin Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RedRadishBagSeed2",
+      "name": "Seed Packet - Radish",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Radish",
+      "recipes": [
+        "Radish Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RoseBagSeed",
+      "name": "Seed Packet - Rose",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Rose",
+      "recipes": [
+        "Rose Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RosemaryBagSeed",
+      "name": "Seed Packet - Rosemary",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Rosemary",
+      "recipes": [
+        "Rosemary Growing Season"
+      ]
+    },
+    {
+      "id": "Base.RyeBagSeed",
+      "name": "Seed Packet - Rye",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Rye",
+      "recipes": [
+        "Rye Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SageBagSeed",
+      "name": "Seed Packet - Sage",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Sage",
+      "recipes": [
+        "Sage Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SoybeansBagSeed",
+      "name": "Seed Packet - Soybeans",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Soybeans",
+      "recipes": [
+        "Soybean Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SpinachBagSeed",
+      "name": "Seed Packet - Spinach",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Spinach",
+      "recipes": [
+        "Spinach Growing Season"
+      ]
+    },
+    {
+      "id": "Base.StrewberrieBagSeed2",
+      "name": "Seed Packet - Strawberry",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Strawberry",
+      "recipes": [
+        "Strawberry Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SugarBeetBagSeed",
+      "name": "Seed Packet - Sugar Beet",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Sugar%20Beet",
+      "recipes": [
+        "Sugar Beet Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SunflowerBagSeed",
+      "name": "Seed Packet - Sunflower",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Sunflower",
+      "recipes": [
+        "Sunflower Growing Season"
+      ]
+    },
+    {
+      "id": "Base.SweetPotatoBagSeed",
+      "name": "Seed Packet - Sweet Potato",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Sweet%20Potato",
+      "recipes": [
+        "Sweet Potato Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ThymeBagSeed",
+      "name": "Seed Packet - Thyme",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Thyme",
+      "recipes": [
+        "Thyme Growing Season"
+      ]
+    },
+    {
+      "id": "Base.TobaccoBagSeed",
+      "name": "Seed Packet - Tobacco",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Tobacco",
+      "recipes": [
+        "Tobacco Growing Season"
+      ]
+    },
+    {
+      "id": "Base.TomatoBagSeed2",
+      "name": "Seed Packet - Tomato",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Tomato",
+      "recipes": [
+        "Tomato Growing Season"
+      ]
+    },
+    {
+      "id": "Base.TurnipBagSeed",
+      "name": "Seed Packet - Turnip",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Turnip",
+      "recipes": [
+        "Turnip Growing Season"
+      ]
+    },
+    {
+      "id": "Base.WatermelonBagSeed",
+      "name": "Seed Packet - Watermelon",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Watermelon",
+      "recipes": [
+        "Watermelon Growing Season"
+      ]
+    },
+    {
+      "id": "Base.WheatBagSeed",
+      "name": "Seed Packet - Wheat",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Wheat",
+      "recipes": [
+        "Wheat Growing Season"
+      ]
+    },
+    {
+      "id": "Base.WildGarlicBagSeed",
+      "name": "Seed Packet - Wild Garlic",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Wild%20Garlic",
+      "recipes": [
+        "Wild Garlic Growing Season"
+      ]
+    },
+    {
+      "id": "Base.ZucchiniBagSeed",
+      "name": "Seed Packet - Zucchini",
+      "kind": "recipe-literature",
+      "category": "Seeds",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Seed%20Packet%20-%20Zucchini",
+      "recipes": [
+        "Zucchini Growing Season"
+      ]
+    },
+    {
+      "id": "recorded-media:fa0cd1c6-3846-4652-8be6-bb1f8c2b176c",
+      "name": "VHS: A Day on the Farm",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20A%20Day%20on%20the%20Farm",
+      "mediaUuid": "fa0cd1c6-3846-4652-8be6-bb1f8c2b176c",
+      "skills": [
+        "Animal Care"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:066ed71a-1803-4143-8151-3d6461a19e79",
+      "name": "VHS: A Stitch in Time",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20A%20Stitch%20in%20Time",
+      "mediaUuid": "066ed71a-1803-4143-8151-3d6461a19e79",
+      "skills": [
+        "Tailoring"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:89d33c66-7071-4b82-859f-2062bfe8db19",
+      "name": "VHS: Adefope Fencing Special",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Adefope%20Fencing%20Special",
+      "mediaUuid": "89d33c66-7071-4b82-859f-2062bfe8db19",
+      "skills": [
+        "Welding"
+      ],
+      "recipes": [
+        "Metal Fence",
+        "Metal Pole Fence",
+        "Metal Pole Fence Gate",
+        "Metal Big Pole Fence",
+        "Metal Big Pole Fence Gate",
+        "Metal Wire Fence Gate",
+        "Metal Wire Fence",
+        "Big Wire Fence Gate",
+        "Metal Big Wire Fence",
+        "Big Double Wire Gate"
+      ]
+    },
+    {
+      "id": "recorded-media:c7d905cf-3fe7-44e6-89a9-5d501bc73944",
+      "name": "VHS: Better Fishing With Jason Master",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Better%20Fishing%20With%20Jason%20Master",
+      "mediaUuid": "c7d905cf-3fe7-44e6-89a9-5d501bc73944",
+      "skills": [
+        "Fishing"
+      ],
+      "recipes": [
+        "Make Fishing Rod",
+        "Fix Fishing Rod"
+      ]
+    },
+    {
+      "id": "recorded-media:07b0cd73-7563-4699-9fb4-99316a0fc0bd",
+      "name": "VHS: Carzone E1",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Carzone%20E1",
+      "mediaUuid": "07b0cd73-7563-4699-9fb4-99316a0fc0bd",
+      "skills": [
+        "Mechanics"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:7b192b30-ea36-4395-a5e4-ac2d825d3b91",
+      "name": "VHS: Carzone E2",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Carzone%20E2",
+      "mediaUuid": "7b192b30-ea36-4395-a5e4-ac2d825d3b91",
+      "skills": [
+        "Mechanics"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:313fa630-d448-44ab-b1f0-7cff1d1db830",
+      "name": "VHS: Carzone E3",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Carzone%20E3",
+      "mediaUuid": "313fa630-d448-44ab-b1f0-7cff1d1db830",
+      "skills": [
+        "Mechanics"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:4653d39e-2fcf-49c2-9b51-0ab992fa123c",
+      "name": "VHS: Combat Wound Management",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Combat%20Wound%20Management",
+      "mediaUuid": "4653d39e-2fcf-49c2-9b51-0ab992fa123c",
+      "skills": [
+        "First Aid"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:4cd4e3d3-c7ad-4848-875d-dd86d946bd45",
+      "name": "VHS: Controlling Nasty Crop Pests and Diseases",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Controlling%20Nasty%20Crop%20Pests%20and%20Diseases",
+      "mediaUuid": "4cd4e3d3-c7ad-4848-875d-dd86d946bd45",
+      "skills": [
+        "Agriculture"
+      ],
+      "recipes": [
+        "Make Mildew Cure",
+        "Make Flies Cure",
+        "Make Slug Trap",
+        "Make Aphids Cure"
+      ]
+    },
+    {
+      "id": "recorded-media:31a726b7-0ee6-408b-8599-95c80aa8a6c5",
+      "name": "VHS: Dead Wrong",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Dead%20Wrong",
+      "mediaUuid": "31a726b7-0ee6-408b-8599-95c80aa8a6c5",
+      "skills": [
+        "Reloading",
+        "Aiming"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:955bf539-6b8b-4dea-9fde-7bfaf3b31983",
+      "name": "VHS: Emergency First Aid",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Emergency%20First%20Aid",
+      "mediaUuid": "955bf539-6b8b-4dea-9fde-7bfaf3b31983",
+      "skills": [
+        "First Aid"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:ccfd97d7-6b57-432c-bca7-f9a271f8012f",
+      "name": "VHS: Exposure Survival E1",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Exposure%20Survival%20E1",
+      "mediaUuid": "ccfd97d7-6b57-432c-bca7-f9a271f8012f",
+      "skills": [
+        "Fishing"
+      ],
+      "recipes": [
+        "Make Fishing Rod"
+      ]
+    },
+    {
+      "id": "recorded-media:6f1be5b5-d871-4ebf-bc44-2657f7c89bb5",
+      "name": "VHS: Exposure Survival E2",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Exposure%20Survival%20E2",
+      "mediaUuid": "6f1be5b5-d871-4ebf-bc44-2657f7c89bb5",
+      "skills": [
+        "Fishing"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:7402fb83-b5b3-4b08-99f9-82bc67f4572b",
+      "name": "VHS: Exposure Survival E3",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Exposure%20Survival%20E3",
+      "mediaUuid": "7402fb83-b5b3-4b08-99f9-82bc67f4572b",
+      "skills": [
+        "Agriculture"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:a628a723-ac78-4bcb-927a-f84ad8c6c286",
+      "name": "VHS: Exposure Survival E4",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Exposure%20Survival%20E4",
+      "mediaUuid": "a628a723-ac78-4bcb-927a-f84ad8c6c286",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:1123df57-5e9b-4d61-88f1-7561949132e3",
+      "name": "VHS: Exposure Survival E5",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Exposure%20Survival%20E5",
+      "mediaUuid": "1123df57-5e9b-4d61-88f1-7561949132e3",
+      "skills": [
+        "Carpentry",
+        "Foraging"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:75928dcd-c613-4a1e-afb5-20c4c671b835",
+      "name": "VHS: Exposure Survival E6",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Exposure%20Survival%20E6",
+      "mediaUuid": "75928dcd-c613-4a1e-afb5-20c4c671b835",
+      "skills": [
+        "Trapping"
+      ],
+      "recipes": [
+        "Make Crate Trap"
+      ]
+    },
+    {
+      "id": "recorded-media:2dcd687b-ac76-4b33-b0b7-79ddfba2feb4",
+      "name": "VHS: Exposure Survival E7",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Exposure%20Survival%20E7",
+      "mediaUuid": "2dcd687b-ac76-4b33-b0b7-79ddfba2feb4",
+      "skills": [
+        "Foraging"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:f74df7fc-20ae-4600-b2d2-f504d9355440",
+      "name": "VHS: Exposure Survival E8",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Exposure%20Survival%20E8",
+      "mediaUuid": "f74df7fc-20ae-4600-b2d2-f504d9355440",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:200e0912-8bfc-4d16-bd0b-8c63a7893773",
+      "name": "VHS: From Ore to Store",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20From%20Ore%20to%20Store",
+      "mediaUuid": "200e0912-8bfc-4d16-bd0b-8c63a7893773",
+      "skills": [
+        "Blacksmithing"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:1a22a4b3-156b-4474-a455-8d6c066e5a21",
+      "name": "VHS: Growing Fruit and Veg at Home 1",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Growing%20Fruit%20and%20Veg%20at%20Home%201",
+      "mediaUuid": "1a22a4b3-156b-4474-a455-8d6c066e5a21",
+      "skills": [
+        "Agriculture"
+      ],
+      "recipes": [
+        "Cabbage Growing Season",
+        "Potato Growing Season",
+        "Radish Growing Season",
+        "Carrot Growing Season",
+        "Onion Growing Season",
+        "Broccoli Growing Season",
+        "Strawberry Growing Season",
+        "Tomato Growing Season"
+      ]
+    },
+    {
+      "id": "recorded-media:a7cd7482-cc83-4097-9ce9-c14eb745014d",
+      "name": "VHS: Growing Fruit and Veg at Home 2",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Growing%20Fruit%20and%20Veg%20at%20Home%202",
+      "mediaUuid": "a7cd7482-cc83-4097-9ce9-c14eb745014d",
+      "skills": [
+        "Agriculture"
+      ],
+      "recipes": [
+        "Green Pea Growing Season",
+        "Soybean Growing Season",
+        "Kale Growing Season",
+        "Garlic Growing Season",
+        "Sweet Potato Growing Season",
+        "Corn Growing Season"
+      ]
+    },
+    {
+      "id": "recorded-media:1c687700-baf6-4901-83e7-11038b7292a9",
+      "name": "VHS: Growing Herbs at Home",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Growing%20Herbs%20at%20Home",
+      "mediaUuid": "1c687700-baf6-4901-83e7-11038b7292a9",
+      "skills": [
+        "Agriculture"
+      ],
+      "recipes": [
+        "Basil Growing Season",
+        "Chives Growing Season",
+        "Cilantro Growing Season",
+        "Oregano Growing Season",
+        "Parsley Growing Season",
+        "Sage Growing Season",
+        "Rosemary Growing Season",
+        "Thyme Growing Season"
+      ]
+    },
+    {
+      "id": "recorded-media:c1a3d275-4b61-4b29-94cd-2a87b183f5e8",
+      "name": "VHS: Home Welding Guide",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Home%20Welding%20Guide",
+      "mediaUuid": "c1a3d275-4b61-4b29-94cd-2a87b183f5e8",
+      "skills": [
+        "Welding"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:9f33c7f2-2af6-4d44-a9bc-630ee8310a2f",
+      "name": "VHS: How Electricity Works",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20How%20Electricity%20Works",
+      "mediaUuid": "9f33c7f2-2af6-4d44-a9bc-630ee8310a2f",
+      "skills": [
+        "Electrical"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:c3d6c81d-a141-49ce-9127-79180cf23c2c",
+      "name": "VHS: Knapping: The Ancient Art",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Knapping%3A%20The%20Ancient%20Art",
+      "mediaUuid": "c3d6c81d-a141-49ce-9127-79180cf23c2c",
+      "skills": [
+        "Knapping"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:729fc45b-5f9c-46b1-8cb6-d4978b050068",
+      "name": "VHS: Knox Gun Owners Club's Guide to Guns",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Knox%20Gun%20Owners%20Club's%20Guide%20to%20Guns",
+      "mediaUuid": "729fc45b-5f9c-46b1-8cb6-d4978b050068",
+      "skills": [
+        "Reloading",
+        "Aiming"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:988e8c5a-93b4-456f-be54-4638c5dc7812",
+      "name": "VHS: Making Sushi at Home",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Making%20Sushi%20at%20Home",
+      "mediaUuid": "988e8c5a-93b4-456f-be54-4638c5dc7812",
+      "skills": [
+        "Cooking"
+      ],
+      "recipes": [
+        "Prepare Sushi",
+        "Prepare Maki",
+        "Prepare Onigiri",
+        "Prepare Breaded Shrimp",
+        "Make 4 Cabbage Rolls"
+      ]
+    },
+    {
+      "id": "recorded-media:9ec23879-13eb-4b6a-ab44-e9038952104f",
+      "name": "VHS: Mother's Boy",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Mother's%20Boy",
+      "mediaUuid": "9ec23879-13eb-4b6a-ab44-e9038952104f",
+      "skills": [
+        "Short Blade"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:7e395694-9830-4066-8709-bf285677937d",
+      "name": "VHS: Pottery for Anyone",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Pottery%20for%20Anyone",
+      "mediaUuid": "7e395694-9830-4066-8709-bf285677937d",
+      "skills": [
+        "Pottery"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:0cd1fbcb-1ea6-4edc-aeb6-f0a81eff6c5e",
+      "name": "VHS: Rosewood Medical First Aid",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Rosewood%20Medical%20First%20Aid",
+      "mediaUuid": "0cd1fbcb-1ea6-4edc-aeb6-f0a81eff6c5e",
+      "skills": [
+        "First Aid"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:e6fd44a9-1774-4204-ab45-9b316301aa2b",
+      "name": "VHS: The Cook Show E1",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20The%20Cook%20Show%20E1",
+      "mediaUuid": "e6fd44a9-1774-4204-ab45-9b316301aa2b",
+      "skills": [
+        "Cooking"
+      ],
+      "recipes": [
+        "Make Cake Batter"
+      ]
+    },
+    {
+      "id": "recorded-media:a754fdaf-5bac-40cd-9a69-da90e8a0cac7",
+      "name": "VHS: The Cook Show E2",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20The%20Cook%20Show%20E2",
+      "mediaUuid": "a754fdaf-5bac-40cd-9a69-da90e8a0cac7",
+      "skills": [
+        "Cooking"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:7933a371-a8a6-4c31-8886-7a97d89f2c7e",
+      "name": "VHS: The Cook Show E3",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20The%20Cook%20Show%20E3",
+      "mediaUuid": "7933a371-a8a6-4c31-8886-7a97d89f2c7e",
+      "skills": [
+        "Cooking"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:4cc3b806-4630-4dfc-a935-efa700fbd7fb",
+      "name": "VHS: The Cook Show E4",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20The%20Cook%20Show%20E4",
+      "mediaUuid": "4cc3b806-4630-4dfc-a935-efa700fbd7fb",
+      "skills": [
+        "Cooking"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:2695eb00-ee79-4b39-833a-1023a28ce397",
+      "name": "VHS: The Cook Show E5",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20The%20Cook%20Show%20E5",
+      "mediaUuid": "2695eb00-ee79-4b39-833a-1023a28ce397",
+      "skills": [
+        "Cooking"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:01b3d832-602c-4566-b8d6-c2b74a4a0b00",
+      "name": "VHS: The Cook Show E6",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20The%20Cook%20Show%20E6",
+      "mediaUuid": "01b3d832-602c-4566-b8d6-c2b74a4a0b00",
+      "skills": [
+        "Cooking"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:2c2a052d-097c-4507-85f4-7fda90f3e3d1",
+      "name": "VHS: The Cook Show E7",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20The%20Cook%20Show%20E7",
+      "mediaUuid": "2c2a052d-097c-4507-85f4-7fda90f3e3d1",
+      "skills": [
+        "Cooking"
+      ],
+      "recipes": [
+        "Prepare Pie Dough"
+      ]
+    },
+    {
+      "id": "recorded-media:b4830b9a-341e-4f2e-b6f6-87aaaaf99d00",
+      "name": "VHS: The Petting Zoo",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20The%20Petting%20Zoo",
+      "mediaUuid": "b4830b9a-341e-4f2e-b6f6-87aaaaf99d00",
+      "skills": [
+        "Animal Care"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:dedd4e83-6e3b-4f4f-9c9b-72a5ed08969d",
+      "name": "VHS: Woodcraft E1",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Woodcraft%20E1",
+      "mediaUuid": "dedd4e83-6e3b-4f4f-9c9b-72a5ed08969d",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:c2d01da8-8e04-4889-8676-bb633e98df2d",
+      "name": "VHS: Woodcraft E2",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Woodcraft%20E2",
+      "mediaUuid": "c2d01da8-8e04-4889-8676-bb633e98df2d",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:3e9c5cf0-bf40-40eb-bcd7-4fd6c5ae58ca",
+      "name": "VHS: Woodcraft E3",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Woodcraft%20E3",
+      "mediaUuid": "3e9c5cf0-bf40-40eb-bcd7-4fd6c5ae58ca",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:0627a89a-a32b-4e80-9926-815aa9d22b2b",
+      "name": "VHS: Woodcraft E4",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Woodcraft%20E4",
+      "mediaUuid": "0627a89a-a32b-4e80-9926-815aa9d22b2b",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:2bf49f71-0d46-43aa-bbfd-f311e5bda9b2",
+      "name": "VHS: Woodcraft E5",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Woodcraft%20E5",
+      "mediaUuid": "2bf49f71-0d46-43aa-bbfd-f311e5bda9b2",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:968591cd-d4aa-4ef1-9632-7771a1f5b9ab",
+      "name": "VHS: Woodcraft E6",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Woodcraft%20E6",
+      "mediaUuid": "968591cd-d4aa-4ef1-9632-7771a1f5b9ab",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:01dedfea-62eb-4ae6-a4bc-5e629b7ba54b",
+      "name": "VHS: Woodcraft E7",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Woodcraft%20E7",
+      "mediaUuid": "01dedfea-62eb-4ae6-a4bc-5e629b7ba54b",
+      "skills": [
+        "Carpentry"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:dccc28f4-fc37-4d74-928d-9f7d1bdf4e3f",
+      "name": "VHS: Working Clay at Home",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Working%20Clay%20at%20Home",
+      "mediaUuid": "dccc28f4-fc37-4d74-928d-9f7d1bdf4e3f",
+      "skills": [
+        "Pottery"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:4f3f30d6-df77-4e85-b1cb-4ca7e67addd9",
+      "name": "VHS: Z-Squad S2.03",
+      "kind": "educational-vhs",
+      "category": "Retail VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=VHS%3A%20Z-Squad%20S2.03",
+      "mediaUuid": "4f3f30d6-df77-4e85-b1cb-4ca7e67addd9",
+      "skills": [
+        "Welding",
+        "Mechanics"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:f33ce778-8d37-4fba-889d-d736434aad22",
+      "name": "Home VHS: Basic Gun Handling (Officer Use Only)",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20Basic%20Gun%20Handling%20(Officer%20Use%20Only)",
+      "mediaUuid": "f33ce778-8d37-4fba-889d-d736434aad22",
+      "skills": [
+        "Aiming",
+        "Reloading"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:8c150873-8bd1-4316-ae3f-a37742ccfa20",
+      "name": "Home VHS: Combat Wound Management",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20Combat%20Wound%20Management",
+      "mediaUuid": "8c150873-8bd1-4316-ae3f-a37742ccfa20",
+      "skills": [
+        "First Aid"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:541b5fff-7f01-402a-8e8a-98cfd0c90916",
+      "name": "Home VHS: Grady v King",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20Grady%20v%20King",
+      "mediaUuid": "541b5fff-7f01-402a-8e8a-98cfd0c90916",
+      "skills": [
+        "Lightfooted"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:00a8b565-a566-44f3-b6d2-7a1ae2eafb0c",
+      "name": "Home VHS: Granny Nani",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20Granny%20Nani",
+      "mediaUuid": "00a8b565-a566-44f3-b6d2-7a1ae2eafb0c",
+      "skills": [
+        "Tailoring"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:68785929-d79c-4170-9fc8-5289bbf05388",
+      "name": "Home VHS: Mathematical Quadratics and Algebraic Configurations",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20Mathematical%20Quadratics%20and%20Algebraic%20Configurations",
+      "mediaUuid": "68785929-d79c-4170-9fc8-5289bbf05388",
+      "skills": [
+        "Long Blunt"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:ffe28381-b743-4300-8c5a-89b4c4983d05",
+      "name": "Home VHS: Muldraugh AV Club",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20Muldraugh%20AV%20Club",
+      "mediaUuid": "ffe28381-b743-4300-8c5a-89b4c4983d05",
+      "skills": [
+        "Electrical"
+      ],
+      "recipes": [
+        "Make Makeshift Radio"
+      ]
+    },
+    {
+      "id": "recorded-media:fe4ede3c-a153-4e46-aebe-9681d14fe196",
+      "name": "Home VHS: no 9",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20no%209",
+      "mediaUuid": "fe4ede3c-a153-4e46-aebe-9681d14fe196",
+      "skills": [
+        "Welding"
+      ],
+      "recipes": [
+        "Metal Fence",
+        "Metal Pole Fence",
+        "Metal Pole Fence Gate",
+        "Metal Big Pole Fence",
+        "Metal Big Pole Fence Gate",
+        "Metal Wire Fence",
+        "Metal Wire Fence Gate",
+        "Big Wire Fence Gate",
+        "Metal Big Wire Fence",
+        "Big Double Wire Gate"
+      ]
+    },
+    {
+      "id": "recorded-media:1c6745f6-70b8-49e8-9087-b1bbb9263985",
+      "name": "Home VHS: nof vid",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20nof%20vid",
+      "mediaUuid": "1c6745f6-70b8-49e8-9087-b1bbb9263985",
+      "skills": [
+        "Welding"
+      ],
+      "recipes": [
+        "Metal Floor",
+        "Metal Wall (Basic)"
+      ]
+    },
+    {
+      "id": "recorded-media:1559a55a-bfc9-4cfc-967b-e26b860894c6",
+      "name": "Home VHS: OSCC '92",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20OSCC%20'92",
+      "mediaUuid": "1559a55a-bfc9-4cfc-967b-e26b860894c6",
+      "skills": [
+        "Mechanics"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:14fca23a-86ca-44b3-8342-264791175421",
+      "name": "Home VHS: RMFA",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20RMFA",
+      "mediaUuid": "14fca23a-86ca-44b3-8342-264791175421",
+      "skills": [
+        "First Aid"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:8904b5c7-86f6-4b49-a163-cf37d4421895",
+      "name": "Home VHS: stock cars",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20stock%20cars",
+      "mediaUuid": "8904b5c7-86f6-4b49-a163-cf37d4421895",
+      "skills": [
+        "Mechanics"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:af941537-39ac-42fb-8c7a-ed346ded282e",
+      "name": "Home VHS: Tailoring 101",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20Tailoring%20101",
+      "mediaUuid": "af941537-39ac-42fb-8c7a-ed346ded282e",
+      "skills": [
+        "Tailoring"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:db7deaf2-ddbe-42c8-8fd3-9725d8fdeff3",
+      "name": "Home VHS: Tree Planting Guide",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20Tree%20Planting%20Guide",
+      "mediaUuid": "db7deaf2-ddbe-42c8-8fd3-9725d8fdeff3",
+      "skills": [
+        "Agriculture"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "recorded-media:c23539e8-c5eb-4f58-850f-18522250c470",
+      "name": "Home VHS: TV repair",
+      "kind": "educational-vhs",
+      "category": "Home VHS",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Home%20VHS%3A%20TV%20repair",
+      "mediaUuid": "c23539e8-c5eb-4f58-850f-18522250c470",
+      "skills": [
+        "Electrical"
+      ],
+      "recipes": []
+    },
+    {
+      "id": "tool-capability:hammering",
+      "name": "Hammering",
+      "kind": "tool-capability",
+      "category": "Construction",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Hammering",
+      "sourceIds": [
+        "Base.BallPeenHammer",
+        "Base.BallPeenHammerForged",
+        "Base.ClubHammer",
+        "Base.Hammer",
+        "Base.HammerForged",
+        "Base.HammerStone",
+        "Base.SmithingHammer"
+      ],
+      "variants": [
+        "Ball-peen Hammer",
+        "Claw Hammer",
+        "Club Hammer",
+        "Smithing Hammer",
+        "Stone Hammer"
+      ],
+      "details": "Drive and remove nails for carpentry and repairs."
+    },
+    {
+      "id": "tool-capability:screwdriving",
+      "name": "Screwdriving",
+      "kind": "tool-capability",
+      "category": "Construction",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Screwdriving",
+      "sourceIds": [
+        "Base.Handiknife",
+        "Base.Multitool",
+        "Base.Screwdriver",
+        "Base.Screwdriver_Improvised",
+        "Base.Screwdriver_Old"
+      ],
+      "variants": [
+        "Handiknife",
+        "Improvised Screwdriver",
+        "Multitool",
+        "Screwdriver"
+      ],
+      "details": "Install and remove screws in electronics, furniture, and vehicles."
+    },
+    {
+      "id": "tool-capability:wood-sawing",
+      "name": "Wood sawing",
+      "kind": "tool-capability",
+      "category": "Construction",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Wood%20sawing",
+      "sourceIds": [
+        "Base.CrudeSaw",
+        "Base.GardenSaw",
+        "Base.Saw"
+      ],
+      "variants": [
+        "Hacksaw",
+        "Simple Wood Saw",
+        "Wood Saw"
+      ],
+      "details": "Cut logs and planks for construction."
+    },
+    {
+      "id": "tool-capability:butchering",
+      "name": "Butchering",
+      "kind": "tool-capability",
+      "category": "Cutting",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Butchering",
+      "sourceIds": [
+        "Base.HuntingKnife",
+        "Base.MeatCleaver"
+      ],
+      "variants": [
+        "Hunting Knife",
+        "Meat Cleaver"
+      ],
+      "details": "Dress animals and prepare carcasses."
+    },
+    {
+      "id": "tool-capability:fine-cutting",
+      "name": "Fine cutting",
+      "kind": "tool-capability",
+      "category": "Cutting",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Fine%20cutting",
+      "sourceIds": [
+        "Base.CrudeKnife",
+        "Base.FightingKnife",
+        "Base.FlintKnife",
+        "Base.HandguardDagger",
+        "Base.Handiknife",
+        "Base.HuntingKnife",
+        "Base.HuntingKnifeForged",
+        "Base.KitchenKnife",
+        "Base.KitchenKnifeForged",
+        "Base.KnifeButterfly",
+        "Base.KnifeFillet",
+        "Base.KnifeParing",
+        "Base.KnifePocket",
+        "Base.KnifeSushi",
+        "Base.LargeKnife",
+        "Base.LargeKnife_Scrap",
+        "Base.LongCrudeKnife",
+        "Base.Machete",
+        "Base.MacheteForged",
+        "Base.MacheteKnife",
+        "Base.Machete_Crude",
+        "Base.Multitool",
+        "Base.RailroadSpikeKnife",
+        "Base.Scissors",
+        "Base.SharpedStone",
+        "Base.SmallKnife",
+        "Base.SteakKnife",
+        "Base.StoneKnifeLong",
+        "Base.StraightRazor",
+        "Base.SwitchKnife"
+      ],
+      "variants": [
+        "Butterfly Knife",
+        "Fighting Knife",
+        "Fillet Knife",
+        "Handguard Dagger",
+        "Handiknife",
+        "Hunting Knife",
+        "Kitchen Knife",
+        "Large Knife",
+        "Long Simple Metal Knife",
+        "Long Stone Knife",
+        "Machete",
+        "Machete Blade Knife",
+        "Multitool",
+        "Paring Knife",
+        "Pocket Knife",
+        "Railroad Spike Knife",
+        "Scissors",
+        "Scrap Metal Chopper",
+        "Scrap Metal Large Knife",
+        "Sharp Flint Flake",
+        "Simple Metal Knife",
+        "Small Knife",
+        "Steak Knife",
+        "Stone Knife",
+        "Straight Razor",
+        "Sushi Knife",
+        "Switchblade"
+      ],
+      "details": "Perform controlled cutting and detailed crafting."
+    },
+    {
+      "id": "tool-capability:tree-cutting",
+      "name": "Tree cutting",
+      "kind": "tool-capability",
+      "category": "Cutting",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tree%20cutting",
+      "sourceIds": [
+        "Base.Axe",
+        "Base.AxeStone",
+        "Base.HandAxe",
+        "Base.WoodAxe"
+      ],
+      "variants": [
+        "Crude Stone Axe",
+        "Firefighter Axe",
+        "Hatchet",
+        "Wood Axe"
+      ],
+      "details": "Fell trees and split wood."
+    },
+    {
+      "id": "tool-capability:digging",
+      "name": "Digging",
+      "kind": "tool-capability",
+      "category": "Groundwork",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Digging",
+      "sourceIds": [
+        "Base.EntrenchingTool",
+        "Base.GardenFork",
+        "Base.GardenFork_Forged",
+        "Base.GardenHoe",
+        "Base.GardenHoeForged",
+        "Base.HandFork",
+        "Base.HandShovel",
+        "Base.MasonsTrowel",
+        "Base.MasonsTrowel_Wood",
+        "Base.PickAxe",
+        "Base.PickAxeForged",
+        "Base.Shovel",
+        "Base.Shovel2",
+        "Base.SpadeForged",
+        "Base.SpadeWood"
+      ],
+      "variants": [
+        "Entrenching Tool",
+        "Garden Fork",
+        "Garden Hoe",
+        "Gardening Trowel",
+        "Hand Fork",
+        "Mason's Trowel",
+        "Pickaxe",
+        "Shovel",
+        "Spade",
+        "Wooden Spade",
+        "Wooden Trowel"
+      ],
+      "details": "Move soil, dig graves, and prepare ground."
+    },
+    {
+      "id": "tool-capability:masonry",
+      "name": "Masonry",
+      "kind": "tool-capability",
+      "category": "Groundwork",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Masonry",
+      "sourceIds": [
+        "Base.MasonsTrowel",
+        "Base.MasonsTrowel_Wood"
+      ],
+      "variants": [
+        "Mason's Trowel",
+        "Wooden Trowel"
+      ],
+      "details": "Lay and shape stone, brick, and mortar."
+    },
+    {
+      "id": "tool-capability:stump-removal",
+      "name": "Stump removal",
+      "kind": "tool-capability",
+      "category": "Groundwork",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Stump%20removal",
+      "sourceIds": [
+        "Base.PickAxe",
+        "Base.PickAxeForged"
+      ],
+      "variants": [
+        "Pickaxe"
+      ],
+      "details": "Break roots and remove tree stumps."
+    },
+    {
+      "id": "tool-capability:tilling",
+      "name": "Tilling",
+      "kind": "tool-capability",
+      "category": "Groundwork",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tilling",
+      "sourceIds": [
+        "Base.EntrenchingTool",
+        "Base.GardenFork",
+        "Base.GardenFork_Forged",
+        "Base.GardenHoe",
+        "Base.GardenHoeForged",
+        "Base.HandFork",
+        "Base.HandShovel",
+        "Base.MasonsTrowel",
+        "Base.MasonsTrowel_Wood",
+        "Base.PickAxe",
+        "Base.PickAxeForged",
+        "Base.Shovel",
+        "Base.Shovel2",
+        "Base.SpadeForged",
+        "Base.SpadeWood"
+      ],
+      "variants": [
+        "Entrenching Tool",
+        "Garden Fork",
+        "Garden Hoe",
+        "Gardening Trowel",
+        "Hand Fork",
+        "Mason's Trowel",
+        "Pickaxe",
+        "Shovel",
+        "Spade",
+        "Wooden Spade",
+        "Wooden Trowel"
+      ],
+      "details": "Prepare furrows and plots for crops."
+    },
+    {
+      "id": "tool-capability:demolition",
+      "name": "Demolition",
+      "kind": "tool-capability",
+      "category": "Heavy work",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Demolition",
+      "sourceIds": [
+        "Base.Sledgehammer",
+        "Base.Sledgehammer2",
+        "Base.SledgehammerForged"
+      ],
+      "variants": [
+        "Sledgehammer"
+      ],
+      "details": "Destroy walls, stairs, and large fixtures."
+    },
+    {
+      "id": "tool-capability:prying",
+      "name": "Prying",
+      "kind": "tool-capability",
+      "category": "Heavy work",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Prying",
+      "sourceIds": [
+        "Base.Crowbar",
+        "Base.CrowbarForged"
+      ],
+      "variants": [
+        "Crowbar"
+      ],
+      "details": "Pry fixtures and boards apart."
+    },
+    {
+      "id": "tool-capability:can-opening",
+      "name": "Can opening",
+      "kind": "tool-capability",
+      "category": "Kitchen",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Can%20opening",
+      "sourceIds": [
+        "Base.Handiknife",
+        "Base.Multitool",
+        "Base.P38",
+        "Base.SheetMetalSnips",
+        "Base.TinOpener",
+        "Base.TinOpener_Old"
+      ],
+      "variants": [
+        "Can Opener",
+        "Can Opener - Old-Fashioned",
+        "Handiknife",
+        "Multitool",
+        "P38 Can Opener",
+        "Sheet Metal Snips"
+      ],
+      "details": "Open sealed canned food without wasting it."
+    },
+    {
+      "id": "tool-capability:generator",
+      "name": "Generator power",
+      "kind": "tool-capability",
+      "category": "Utility",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Generator%20power",
+      "sourceIds": [
+        "Base.Generator"
+      ],
+      "variants": [
+        "Generator - Lectromax"
+      ],
+      "details": "Provide local electrical power after the grid fails."
+    },
+    {
+      "id": "tool-capability:lug-tire",
+      "name": "Lug & tire work",
+      "kind": "tool-capability",
+      "category": "Vehicles",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Lug%20%26%20tire%20work",
+      "sourceIds": [
+        "Base.LugWrench"
+      ],
+      "variants": [
+        "Lug Wrench"
+      ],
+      "details": "Remove and install wheels and tires."
+    },
+    {
+      "id": "tool-capability:tire-pump",
+      "name": "Tire inflation",
+      "kind": "tool-capability",
+      "category": "Vehicles",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Tire%20inflation",
+      "sourceIds": [
+        "Base.TirePump"
+      ],
+      "variants": [
+        "Tire Pump"
+      ],
+      "details": "Inflate vehicle tires."
+    },
+    {
+      "id": "tool-capability:vehicle-jack",
+      "name": "Vehicle lifting",
+      "kind": "tool-capability",
+      "category": "Vehicles",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Vehicle%20lifting",
+      "sourceIds": [
+        "Base.Jack"
+      ],
+      "variants": [
+        "Jack"
+      ],
+      "details": "Lift vehicles safely for underbody work."
+    },
+    {
+      "id": "tool-capability:vehicle-wrench",
+      "name": "Vehicle wrenching",
+      "kind": "tool-capability",
+      "category": "Vehicles",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Vehicle%20wrenching",
+      "sourceIds": [
+        "Base.Ratchet",
+        "Base.Wrench"
+      ],
+      "variants": [
+        "Ratchet Wrench",
+        "Wrench"
+      ],
+      "details": "Remove and install mechanical vehicle parts."
+    },
+    {
+      "id": "tool-capability:chiseling",
+      "name": "Chiseling",
+      "kind": "tool-capability",
+      "category": "Workshop",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Chiseling",
+      "sourceIds": [
+        "Base.CarpentryChisel",
+        "Base.MasonsChisel",
+        "Base.MetalworkingChisel",
+        "Base.StoneChisel"
+      ],
+      "variants": [
+        "Carpentry Chisel",
+        "Mason's Chisel",
+        "Metalworking Chisel",
+        "Stone Chisel"
+      ],
+      "details": "Cut joints and shape wood, stone, or metal."
+    },
+    {
+      "id": "tool-capability:drilling",
+      "name": "Drilling",
+      "kind": "tool-capability",
+      "category": "Workshop",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Drilling",
+      "sourceIds": [
+        "Base.HandDrill"
+      ],
+      "variants": [
+        "Hand Drill"
+      ],
+      "details": "Bore holes for joinery and fabrication."
+    },
+    {
+      "id": "tool-capability:filing-sharpening",
+      "name": "Filing & sharpening",
+      "kind": "tool-capability",
+      "category": "Workshop",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Filing%20%26%20sharpening",
+      "sourceIds": [
+        "Base.File",
+        "Base.SmallFileSet",
+        "Base.Whetstone"
+      ],
+      "variants": [
+        "File",
+        "Small File Set",
+        "Whetstone"
+      ],
+      "details": "Shape edges and restore cutting tools."
+    },
+    {
+      "id": "tool-capability:forging-tongs",
+      "name": "Forging tongs",
+      "kind": "tool-capability",
+      "category": "Workshop",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Forging%20tongs",
+      "sourceIds": [
+        "Base.CrudeWoodenTongs",
+        "Base.KitchenTongs",
+        "Base.Tongs"
+      ],
+      "variants": [
+        "Kitchen Tongs",
+        "Simple Wooden Tongs",
+        "Tongs"
+      ],
+      "details": "Safely hold hot metal while forging."
+    },
+    {
+      "id": "tool-capability:metal-sawing",
+      "name": "Metal sawing",
+      "kind": "tool-capability",
+      "category": "Workshop",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Metal%20sawing",
+      "sourceIds": [
+        "Base.Saw",
+        "Base.SmallSaw"
+      ],
+      "variants": [
+        "Hacksaw",
+        "Small Hacksaw"
+      ],
+      "details": "Cut metal stock and parts."
+    },
+    {
+      "id": "tool-capability:sewing-leather",
+      "name": "Sewing & leatherworking",
+      "kind": "tool-capability",
+      "category": "Workshop",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Sewing%20%26%20leatherworking",
+      "sourceIds": [
+        "Base.Awl",
+        "Base.Needle",
+        "Base.Needle_Bone",
+        "Base.Needle_Brass",
+        "Base.Needle_Forged"
+      ],
+      "variants": [
+        "Awl",
+        "Bone Needle",
+        "Brass Needle",
+        "Forged Needle",
+        "Needle"
+      ],
+      "details": "Repair fabric and work leather."
+    },
+    {
+      "id": "tool-capability:welding-equipment",
+      "name": "Welding equipment",
+      "kind": "tool-capability",
+      "category": "Workshop",
+      "wikiUrl": "https://pzwiki.net/w/index.php?search=Welding%20equipment",
+      "sourceIds": [
+        "Base.BlowTorch",
+        "Base.WeldingMask"
+      ],
+      "variants": [
+        "Welder Mask",
+        "Welding Torch"
+      ],
+      "details": "Cut and join metal. A torch and welding mask are both required."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="zombuddy field notebook">
+  <rect width="512" height="512" rx="104" fill="#d9d0b8"/>
+  <path d="M112 72h274c30 0 54 24 54 54v284c0 16-13 30-30 30H112c-22 0-40-18-40-40V112c0-22 18-40 40-40Z" fill="#34372c"/>
+  <path d="M126 72h244v368H126c-22 0-40-18-40-40V112c0-22 18-40 40-40Z" fill="#e6ddc5"/>
+  <path d="M147 155h164M147 214h202M147 273h147M147 332h178" stroke="#5e604e" stroke-width="18" stroke-linecap="round"/>
+  <path d="m335 296 67 67-24 24-67-67z" fill="#d5652f"/>
+  <circle cx="147" cy="155" r="12" fill="#d5652f"/>
+  <path d="M108 72v368" stroke="#9c5940" stroke-width="16"/>
+</svg>
