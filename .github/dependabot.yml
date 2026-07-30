@@ -6,10 +6,8 @@ updates:
       interval: monthly
     open-pull-requests-limit: 5
     ignore:
-      # Vite 8 and plugin-react 6 must move as a tested pair.
-      - dependency-name: vite
-        update-types: [version-update:semver-major]
-      - dependency-name: "@vitejs/plugin-react"
+      # Major toolchain updates are reviewed and migrated as a tested set.
+      - dependency-name: "*"
         update-types: [version-update:semver-major]
 
   - package-ecosystem: github-actions
